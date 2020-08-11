@@ -53,7 +53,7 @@ The following example shows how to load a license from a stream.
 
 {{< gist "aspose-note" "a3f450d09a204d8da28204807872cdcf" "Examples-CSharp-ApplyLicense-ApplyLicenseUsingFileStream-ApplyLicenseUsingFileStream.cs" >}}
 ## **Apply License using Embedded Resource**
-One way of applying a license is to set it [using a file or stream object](/pages/createpage.action?spaceKey=notenet&title=Apply+License+using+File+or+Stream+Object&linkCreation=true&fromPageId=19104019). Another neat way of packaging the license with your application and making sure it will not be lost is to include it as an embedded resource into one of the assemblies that calls the component's DLL (included in Aspose.Note).
+One way of applying a license is to set it using a file or stream object. Another neat way of packaging the license with your application and making sure it will not be lost is to include it as an embedded resource into one of the assemblies that calls the component's DLL (included in Aspose.Note).
 
 To include the license file as an embedded resource:
 
