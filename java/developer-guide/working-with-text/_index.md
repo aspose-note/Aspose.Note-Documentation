@@ -16,8 +16,8 @@ Aspose.Note for Java offers the [Document](http://www.aspose.com/api/java/note/c
 
 This article shows how to:
 
-- [Show all text from OneNote document](/note/java/working-with-text-html/).
-- [Show text from a specified page of OneNote document](/note/java/working-with-text-html/).
+- [Show all text from OneNote document](/note/java/working-with-text/).
+- [Show text from a specified page of OneNote document](/note/java/working-with-text/).
 ### **Extracting All Text from OneNote Document**
 This example works as follows:
 
@@ -47,8 +47,8 @@ Aspose.Note for Java offers the [Document](http://www.aspose.com/api/java/note/c
 
 This article shows how to:
 
-- [Replace text on all pages](/note/java/working-with-text-html/).
-- [Replace text on a particular page](/note/java/working-with-text-html/).
+- [Replace text on all pages](/note/java/working-with-text/).
+- [Replace text on a particular page](/note/java/working-with-text/).
 ### **Replace Text on All Pages**
 The following example shows how to replace text on all pages.
 

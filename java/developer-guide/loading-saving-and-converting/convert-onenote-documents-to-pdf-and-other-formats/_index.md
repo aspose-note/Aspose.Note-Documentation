@@ -18,8 +18,8 @@ Aspose.Note for Java offers the [Document](http://www.aspose.com/api/java/note/c
 
 This article shows how to:
 
-- [Save all pages as PDF file with the default settings](/note/java/convert-onenote-documents-to-pdf-and-other-formats-html/).
-- [Save the range of pages as PDF](/note/java/convert-onenote-documents-to-pdf-and-other-formats-html/).
+- [Save all pages as PDF file with the default settings](/note/java/convert-onenote-documents-to-pdf-and-other-formats/).
+- [Save the range of pages as PDF](/note/java/convert-onenote-documents-to-pdf-and-other-formats/).
 ### **Converting OneNote to PDF using the Default Options**
 The following example shows how to convert a OneNote into a PDF document using the default options. The default options create a PDF document of the maximum quality.
 
@@ -39,9 +39,9 @@ Aspose.Note API offers the [Document](http://www.aspose.com/api/java/note/com.as
 
 This article shows how to:
 
-- [Save OneNote as an image with the default settings](/note/java/convert-onenote-documents-to-pdf-and-other-formats-html/).
-- [Save a particular page of OneNote as an image](/note/java/convert-onenote-documents-to-pdf-and-other-formats-html/).
-- [Set Output Image Resolution](/note/java/convert-onenote-documents-to-pdf-and-other-formats-html/)
+- [Save OneNote as an image with the default settings](/note/java/convert-onenote-documents-to-pdf-and-other-formats/).
+- [Save a particular page of OneNote as an image](/note/java/convert-onenote-documents-to-pdf-and-other-formats/).
+- [Set Output Image Resolution](/note/java/convert-onenote-documents-to-pdf-and-other-formats/)
 ### **Converting OneNote to Image using the Default Options**
 The following example shows how to convert a OneNote into an image using the default options.
 

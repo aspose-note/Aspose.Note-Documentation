@@ -19,8 +19,8 @@ Please follow these steps to create a OneNote document using the Aspose.Note API
 
 These articles show how to:
 
-- [Create a OneNote Document with Simple RichText](/note/java/introduction-html/).
-- [Create a OneNote Document with Formatted RichText](/note/java/introduction-html/).
+- [Create a OneNote Document with Simple RichText](/note/java/introduction/).
+- [Create a OneNote Document with Formatted RichText](/note/java/introduction/).
 ### **Create a OneNote Document with Simple RichText**
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-introduction-CreateOneNoteDocumentWithSimpleRichText-CreateDocWithSimpleRichText.java" >}}
 ### **Create a OneNote Document with Formatted RichText**

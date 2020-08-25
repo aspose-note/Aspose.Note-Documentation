@@ -22,9 +22,9 @@ The NoteTag class provides all the properties related to a note tag. Users can n
 
 These articles show how to:
 
-- [Add a New Text Node with a Tag](/note/java/working-with-tags-html/).
-- [Add a New Image Node with a Tag](/note/java/working-with-tags-html/).
-- [Add a New Table Node with a Tag](/note/java/working-with-tags-html/).
+- [Add a New Text Node with a Tag](/note/java/working-with-tags/).
+- [Add a New Image Node with a Tag](/note/java/working-with-tags/).
+- [Add a New Table Node with a Tag](/note/java/working-with-tags/).
 ### **Add a New Text Node with a Tag**
 The code below shows how to add a new text node with a tag in the OneNote document.
 

@@ -23,7 +23,7 @@ This example shows how to extract images from a OneNote document and save them a
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-images-ExtractImages-ExtractImages.java" >}}
 ## **Get Information of Each Image from the OneNote Document**
-The [Image](http://www.aspose.com/api/java/note/com.aspose.note/classes/Image) class provides all the image properties for images in OneNote documents. All the images of the OneNote file are contained by image nodes in the [Document](chttp://www.aspose.com/api/java/note/com.aspose.note/classes/Document) object.
+The [Image](http://www.aspose.com/api/java/note/com.aspose.note/classes/Image) class provides all the image properties for images in OneNote documents. All the images of the OneNote file are contained by image nodes in the [Document](http://www.aspose.com/api/java/note/com.aspose.note/classes/Document) object.
 ### **Get Information**
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-images-GetImageInfo-GetInformationOfImages.java" >}}
 ## **Adding Image to a OneNote Document Page and Saving as PDF**
@@ -31,10 +31,10 @@ Aspose.Diagram for JAVA APIs now allows inserting an image anywhere on the OneNo
 
 These examples show how to:
 
-- [Insert an Image in an Existing OneNote Document](/note/java/working-with-images-html/).
-- [Build a OneNote Document from Scratch and Insert an Image](/note/java/working-with-images-html/).
-- [Build a OneNote Document from Scratch and Insert an Image using an image stream](/note/java/working-with-images-html/).
-- [Support for Alternative Text in Image](/note/java/working-with-images-html/)
+- [Insert an Image in an Existing OneNote Document](/note/java/working-with-images/).
+- [Build a OneNote Document from Scratch and Insert an Image](/note/java/working-with-images/).
+- [Build a OneNote Document from Scratch and Insert an Image using an image stream](/note/java/working-with-images/).
+- [Support for Alternative Text in Image](/note/java/working-with-images/)
 ### **Insert an Image in an Existing OneNote Document**
 To insert an image on a OneNote document, follow these steps:
 

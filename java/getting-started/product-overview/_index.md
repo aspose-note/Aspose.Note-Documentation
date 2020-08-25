@@ -15,10 +15,10 @@ With Aspose.Note for Java, it is possible to program with Microsoft OneNote file
 
 Using Aspose.Note for Java in your applications gives you the following benefits:
 
-- [Rich features](/note/java/product-overview-html/).
-- [Platform independence](/note/java/product-overview-html/).
-- [Performance and scalability](/note/java/product-overview-html/).
-- [Supported Microsoft OneNote Versions](/note/java/product-overview-html/)
+- [Rich features](/note/java/product-overview/).
+- [Platform independence](/note/java/product-overview/).
+- [Performance and scalability](/note/java/product-overview/).
+- [Supported Microsoft OneNote Versions](/note/java/product-overview/)
 
 {{% /alert %}} 
 ### **Rich Features**

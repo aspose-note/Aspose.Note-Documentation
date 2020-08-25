@@ -10,9 +10,9 @@ Aspose.Note for JAVA offers the [Document](http://www.aspose.com/api/java/note/c
 
 This article shows how to:
 
-- [Get table text from a OneNote document](/note/java/working-with-tables-html/).
-- [Get row text from a table in a OneNote document](/note/java/working-with-tables-html/).
-- [Get cell text from a row in a table](/note/java/working-with-tables-html/).
+- [Get table text from a OneNote document](/note/java/working-with-tables/).
+- [Get row text from a table in a OneNote document](/note/java/working-with-tables/).
+- [Get cell text from a row in a table](/note/java/working-with-tables/).
 ### **Get Table Text from OneNote Document**
 This example works as follows:
 
