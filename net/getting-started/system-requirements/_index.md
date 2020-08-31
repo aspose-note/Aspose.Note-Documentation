@@ -26,6 +26,7 @@ Aspose.Note for .NET supports .NET frameworks as follows:
 - .NET Framework 3.5
 - .NET Framework 4.0
 - .NET Framework 4.0 CP
+- .NET Framework 5.0
 ## **Development Environments**
 Aspose.Note for .NET can be used to develop applications in any development environment that targets the .NET platform, but the following environments are explicitly supported:
 
