@@ -16,7 +16,7 @@ With Aspose.Note for .NET, it is possible to program with Microsoft OneNote file
 
 {{% /alert %}} 
 ## **Aspose.Note for .NET Resources**
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Note for .NET Online Documentation](/note/net/)
 - [Aspose.Note for .NET Features](/note/net/product-overview)
@@ -33,7 +33,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 With Aspose.Note for Java, it is possible to program with Microsoft OneNote files without Microsoft Office Automation. The API is easy to use and saves time and money compared to developing similar solutions from scratch.
 ## **Aspose.Note for Java Resources**
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Note for Java Online Documentation](/note/java/)
 - [Aspose.Tasks for Java Features](/note/java/product-overview)

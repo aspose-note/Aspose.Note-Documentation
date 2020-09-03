@@ -17,7 +17,7 @@ With Aspose.Note for Java, it is possible to program with Microsoft OneNote file
 
 {{% /alert %}} 
 ## **Aspose.Note for Java Resources**
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Note for Java Online Documentation](/note/java/)
 - [Aspose.Tasks for Java Features](/note/java/product-overview/)
