@@ -1,13 +1,13 @@
 ---
-title: Aspose.Note for .NET 20.8 Release Notes
+title: Aspose.Note for .NET 20.9 Release Notes
 type: docs
 weight: 9
-url: /net/aspose-note-for-net-20-8-release-notes/
+url: /net/aspose-note-for-net-20-9-release-notes/
 ---
 
 {{% alert color="primary" %}} 
 
-This page contains release notes information for [Aspose.Note for .NET 20.8](https://downloads.aspose.com/note/net/new-releases/aspose.note-for-.net-20.8/).
+This page contains release notes information for [Aspose.Note for .NET 20.9](https://downloads.aspose.com/note/net/new-releases/aspose.note-for-.net-20.9/).
 
 {{% /alert %}} 
 ## **Major Features**
