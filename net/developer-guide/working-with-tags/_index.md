@@ -6,7 +6,7 @@ url: /net/working-with-tags/
 ---
 
 ## **Get Note Tag Details from a OneNote Document**
-The NoteTag class provides all the properties related to a note tag in a Microsoft OneNote document. All the OneNote file's note tags are contained by RichText nodes of the [Document](http://www.aspose.com/api/net/note/aspose.note/document) object. The code example given below demonstrates how to get details about each note tag from a OneNote document.
+The NoteTag class provides all the properties related to a note tag in a Microsoft OneNote document. All the OneNote file's note tags are contained by RichText nodes of the [Document](https://apireference.aspose.com/note/net/aspose.note/document) object. The code example given below demonstrates how to get details about each note tag from a OneNote document.
 
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Tags-GetTagDetails-GetTagDetails.cs" >}}
 ## **Tag Important Notes in the OneNote Document**

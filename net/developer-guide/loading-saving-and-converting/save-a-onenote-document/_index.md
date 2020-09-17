@@ -26,7 +26,7 @@ The following code example demonstrates how to save a document to a stream.
 
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Loading-and-Saving-SaveToStream-SaveToStream.cs" >}}
 ## **Specify OneNote Save Options**
-There are overloaded Document.Save methods that accept a SaveOptions object. This should be an object of a class derived from the SaveOptions class. Each save format has a corresponding class that holds save options for that format, for example, there is PdfSaveOptions for SaveFormat.Pdf and OneSaveOptions for SaveFormat.One.
+There are overloaded methods for Document.Save method that accept a SaveOptions object. This should be an object of a class derived from the SaveOptions class. Each save format has a corresponding class that holds save options for that format, for example, there is PdfSaveOptions for SaveFormat.Pdf and OneSaveOptions for SaveFormat.One.
 
 The following code example demonstrates how to set save options before saving a document to PDF.
 

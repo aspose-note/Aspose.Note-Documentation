@@ -13,6 +13,6 @@ This document describes changes to the Aspose.Note API from version 1.2 to 1.3, 
 ### **The Node.Document property is added**
 It helps to access the Document available through any nodes.
 ### **The Document.Save(Stream stream, SaveOptions options) method is added**
-It saves the note document to a stream using the specified save options. Please see a complete example topic: [Specify OneNote Save Options](/pages/createpage.action?spaceKey=notenet&title=Specify+OneNote+Save+Options&linkCreation=true&fromPageId=19104351)
+It saves the note document to a stream using the specified save options. Please see a complete example topic: [Specify OneNote Save Options](https://docs.aspose.com/note/net/save-a-onenote-document/#specify-onenote-save-options)
 ### **The Document.Save(Stream stream, SaveFormat format) method is added**
-It saves the note document to a stream in the specified format. Please have a look on this help example topic: [Save OneNote Document to a Stream](/pages/createpage.action?spaceKey=notenet&title=Save+OneNote+Document+to+a+Stream&linkCreation=true&fromPageId=19104351)
+It saves the note document to a stream in the specified format. Please have a look on this help example topic: [Save OneNote Document to a Stream](https://docs.aspose.com/note/net/save-a-onenote-document/#save-onenote-document-to-a-stream)

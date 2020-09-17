@@ -7,13 +7,13 @@ url: /net/create-and-load-a-onenote-document/
 
 {{% alert color="primary" %}} 
 
-Aspose.Note API supports loading Microsoft.Note documents using its Document Object Model. It supports loading Microsoft OneNote 2010, 2013 and OneNote Online (SharePoint) file formats. It provides support for .One as well as .onetoc2 file formats.
+Aspose.Note API supports loading Microsoft.Note documents using its Document Object Model. It supports loading Microsoft OneNote 2010, 2013 and OneNote Online (SharePoint) file formats. It provides support for .one as well as .onetoc2 file formats.
 
 {{% /alert %}} 
 ## **Create a OneNote and Save into HTML Format**
-Aspose.Note supports creating OneNote file and then saving it into HTML file format. To use this feature, import the Aspose.Note.Saving namespace into your application project. It has numerous valuable classes for rendering, for example, HtmlSaveOptions, ImageSaveOptions, PdfSaveOptions, and SaveOptions.
+Aspose.Note supports creating a OneNote file and then saving it into HTML file format. To use this feature, import the Aspose.Note.Saving namespace into your application project. It has numerous valuable classes for rendering, for example, HtmlSaveOptions, ImageSaveOptions, PdfSaveOptions, and SaveOptions.
 
-Aspose.Note for .NET offers the [Document](/pages/createpage.action?spaceKey=notenet&title=Aspose.Note.Document+Class&linkCreation=true&fromPageId=19103971) class that represents a OneNote file. The Document class exposes the Save method that can be called to convert the OneNote file into the HTML file format. The [HtmlSaveOptions](/pages/createpage.action?spaceKey=notenet&title=Aspose.Note.Saving.HtmlSaveOptions+Class&linkCreation=true&fromPageId=19103971) class provides options for creating HTML file, such as PageIndex, PageCount, SaveFormat and others.
+Aspose.Note for .NET offers the [Document](https://apireference.aspose.com/note/net/aspose.note/document) class that represents a OneNote file. The Document class exposes the Save method that can be called to convert the OneNote file into the HTML file format. The [HtmlSaveOptions](https://apireference.aspose.com/note/net/aspose.note.saving/htmlsaveoptions) class provides options for creating HTML file, such as PageIndex, PageCount, SaveFormat and others.
 ### **Creating a OneNote Document and Saving into HTML using the Default Options**
 The following code example demonstrates how to create a OneNote and save into the HTML using the default options.
 
@@ -39,25 +39,25 @@ The Document class exposed by the API can be used to load Microsoft OneNote .one
 ## **Increase Performance for Consequent Export Operations**
 [Aspose.Note for .NET APIs](http://www.aspose.com/.net/onenote-component.aspx) allow to increase performance for consequent export operations. Users may involve in multiple conversions to several supported formats. In such scenarios, the performance is the highly affecting factor.
 
-Aspose.Note for .NET offers the [Document](/pages/createpage.action?spaceKey=notenet&title=Aspose.Note.Document+Class&linkCreation=true&fromPageId=19103971) class that represents a OneNote file. The Document class exposes the AutomaticLayoutChangesDetectionEnabled property and DetectLayoutChanges method, their combine use enable users to disable automatic detection of layout changes and handle them manually:
+Aspose.Note for .NET offers the [Document](https://apireference.aspose.com/note/net/aspose.note/document) class that represents a OneNote file. The Document class exposes the AutomaticLayoutChangesDetectionEnabled property and DetectLayoutChanges method, their combine use enable users to disable automatic detection of layout changes and handle them manually:
 
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Loading-and-Saving-ConsequentExportOperations-ConsequentExportOperations.cs" >}}
 ## **Working with Password Protected OneNote Documents**
 ### **Creating Password Protected OneNote Documents**
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-NoteBook-CreatingPasswordProtectedDoc-CreatingPasswordProtectedDoc.cs" >}}
 ### **Loading Password Protected OneNote Documents**
-Aspose.Note API allows to load password protected OneNote documents. The API's LoadOptions class provides the DocumentPassword property to specify the document password.
-A password protected OneNote document can be loaded using the following steps:
+Aspose.Note API allows to load a password-protected OneNote documents. The API's LoadOptions class provides the DocumentPassword property to specify the document password.
+A password-protected OneNote document can be loaded using the following steps:
 
 1. Create a new object of LoadOptions class
 1. Specify the password of the document using the DocumentPassword property
-1. Load the document with the defined object of LoadOptions class
+1. Load the document with the defined object of the LoadOptions class
 
 
 
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Loading-and-Saving-PasswordProtectedDoc-PasswordProtectedDoc.cs" >}}
 ## **Setting Page Splitting Algorithm**
-While converting a OneNote document to other formats, images and other contents may get disturbed due to their position in the document. Thus, it is necessary to specify some method to split page. The PdfSaveOptions.PageSplittingAlgorithm property provides different options to specify an algorithm of page splitting. These options are:
+While converting a OneNote document to other formats, images and other contents may get disturbed due to their position in the document. Thus, it is necessary to specify some methods to split the page. The PdfSaveOptions.PageSplittingAlgorithm property provides different options to specify an algorithm of page splitting. These options are:
 
 - AlwaysSplitObjectsAlgorithm - Splits objects into several parts at pages' bottom position.
 - KeepPartAndCloneSolidObjectToNextPageAlgorithm - Adds objects up to the bottom of the page and clones full object to the next page in case it doesn't fit in the original page.
@@ -66,8 +66,6 @@ While converting a OneNote document to other formats, images and other contents 
 The default algorithm is KeepSolidObjectsAlgorithm.
 ### **Using the KeepSOlidObjectsAlgoirthm**
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Loading-and-Saving-PageSplittUsingKeepSOlidObjectsAlgoirthm-KeepSOlidObjectsAlgoirthm-1.cs" >}}
-
-
 
 For KeepPartAndCloneSolidObjectToNextPageAlgorithm and KeepSolidObjectsAlgorithm, the maximum possible height of an object plays a role that can be cloned to the next page. In case an object cannot be cloned, it will be split using AlwaysSplitObjectsAlgorithm. Use the constructor parameter to change this limit as shown below:
 
