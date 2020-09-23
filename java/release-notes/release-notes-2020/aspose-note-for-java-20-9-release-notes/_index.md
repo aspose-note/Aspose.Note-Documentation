@@ -27,7 +27,6 @@ This page contains release notes information for [Aspose.Note for Java 20.9](htt
 | :- | :- |
 |com.aspose.note.ParagraphStyle|Text style settings to be used if there is no matching TextStyle object in {@link RichText#getStyles} collection either this object doesn't specify a needed setting.|
 |**The following public properties were added:**|**Description**|
-| :- | :- |
 |com.aspose.note.ParagraphStyle.getFontColor|Gets the font color.|
 |com.aspose.note.ParagraphStyle.setFontColor(java.awt.Color)|Sets the font color.|
 |com.aspose.note.ParagraphStyle.getFontName|Gets the font name.|
@@ -53,9 +52,7 @@ This page contains release notes information for [Aspose.Note for Java 20.9](htt
 |com.aspose.note.TextStyle.getLanguage|Gets the language of the text.|
 |com.aspose.note.TextStyle.setLanguage(java.util.Locale)|Sets the language of the text.|
 |**The following public static methods were added:**|**Description**|
-| :- | :- |
 |com.aspose.note.ParagraphStyle.getDefault|Gets the ParagraphStyle with default settings.|
 |**The following public properties are marked as obsolete:**|**Description**|
-| :- | :- |
 |com.aspose.note.RichText.getDefaultStyle|Gets the default style.|
 |com.aspose.note.RichText.setDefaultStyle(com.aspose.note.TextStyle)|Sets the default style.|
