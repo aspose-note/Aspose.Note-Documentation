@@ -40,11 +40,11 @@ Then define Aspose.Note for Java API dependency in your pom.xml as follows:
 
         <artifactId>aspose-note</artifactId>
 
-        <version>20.5</version>
+        <version>20.9</version>
 
         <classifier>jdk17</classifier>
-
- </dependency>
+        
+    </dependency>
 
 </dependencies>
 
