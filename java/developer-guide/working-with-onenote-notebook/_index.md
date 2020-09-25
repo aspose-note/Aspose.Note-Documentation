@@ -20,7 +20,7 @@ The Notebook class exposed by the API lets you read a OneNote Notebook (.onetoc2
 ### **Loading Notebook File from Stream**
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-Notebook-LoadFilefromStream-LoadFilefromStream.java" >}}
 ### **Loading Notebook File with LoadOptions**
-By default, notebook's child documents are loaded "lazily", i.e. their loading is postponed until direct access to a specific child. An alternative approach is to load all children at once. The last can be achieved by passing to the Notebook constructor NotebookLoadOptions with InstantLoading flag set to true. Following code snippets demonstrate both approaches.
+By default, notebook's child documents are loaded "lazily", i.e. their loading is postponed until direct access to a specific child. An alternative approach is to load all children at once. The last can be achieved by passing to the Notebook constructor NotebookLoadOptions with the InstantLoading flag set to true. The following code snippets demonstrate both approaches.
 #### **Loading Notebook with Lazy Loading Option**
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-Notebook-LoadingNotebookFilewithLoadOptions-LoadingNotebookFilewithLoadOptions.java" >}}
 #### **Loading Notebook Instantly**
@@ -50,11 +50,11 @@ For instance, if there is a hierarchy structure:
 
 Then the only children will be loaded instantly are: Root Notebook -> Section 2 Level 1, Root Notebook -> Notebook 2 Level 1 and Root Notebook -> Notebook 2 Level 1 -> Section 1 Level 2.
 
-Note that "Root Notebook -> Notebook 1 Level 1 -> Section 1 Level 2" is not loaded at the same time as "Root Notebook"; instead it will be loaded instantly while "Root Notebook -> Notebook 1 Level 1" is loading, as it is first-level child for the mentioned notebook and the last is not Online itself.
+Note that "Root Notebook -> Notebook 1 Level 1 -> Section 1 Level 2" is not loaded at the same time as "Root Notebook"; instead it will be loaded instantly while "Root Notebook -> Notebook 1 Level 1" is loading, as it is the first-level child for the mentioned notebook and the last is not Online itself.
 
 {{% /alert %}} 
 #### **Loading Password Protected Documents as a part of .onetoc2 Notebook**
-A Notebook having password protected. One documents can be loaded with the help of LoadOptions class of the API specifying the password.
+A password-protected notebook can be loaded with the help of LoadOptions class of the API specifying the password.
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-Notebook-LoadPasswordProtectedDocuments-LoadingPasswordProtectedDoc.java" >}}
 ## **Adding a Child Node to OneNote Notebook**

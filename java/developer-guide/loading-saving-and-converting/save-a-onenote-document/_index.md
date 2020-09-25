@@ -24,7 +24,7 @@ Users can pass a stream object to the Document.save(Stream, SaveFormat) method. 
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-load-SaveOneNoteDocToStream-SaveOneNoteDocToStream.java" >}}
 ## **Specify OneNote Save Options**
-There are overloaded Document.save methods that accept a SaveOptions object. This should be an object of a class derived from the SaveOptions class. Each save format has a corresponding class that holds save options for that format. For example, there is PdfSaveOptions for SaveFormat.Pdf and OneSaveOptions for SaveFormat.One.
+There are overloaded Document.save methods that accept a SaveOptions object. This should be an object of a class derived from the SaveOptions class. Each save format has a corresponding class that holds save options for that format. For example, there are PdfSaveOptions for SaveFormat.Pdf and OneSaveOptions for SaveFormat.One.
 
 The code below shows how to set save options before saving a document to PDF.
 

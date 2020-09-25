@@ -14,7 +14,7 @@ This topic discusses changing the font color, size and highlighting all the text
 ### **Changing the Font Color, Size & Highlighting the Text**
 To change the font and color of a rich text node using Aspose.Note, please follow the steps below:
 
-1. Load OneNote document to a [Document](/pages/createpage.action?spaceKey=notejava&title=com.aspose.note.Document+class&linkCreation=true&fromPageId=19398690) class.
+1. Load OneNote document to a [Document](https://apireference.aspose.com/note/java/com.aspose.note/Document) class.
 1. Access a RichText node whose font and colors are to be changed.
 1. Access TextStyle.
 1. Set the text's font and color.

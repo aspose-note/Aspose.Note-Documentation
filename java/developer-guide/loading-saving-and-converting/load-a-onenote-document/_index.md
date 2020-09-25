@@ -13,34 +13,34 @@ The Document class exposed by the API can be used to load Microsoft OneNote .One
 ## **Increase Performance for Consequent Export Operations**
 Aspose.Note API allows increasing performance for consequent export operations. Users may involve in multiple conversions to several supported formats. In such scenarios, the performance is the highly affecting factor.
 
-Aspose.Note for Java offers the [Document](http://www.aspose.com/api/java/note/com.aspose.note/classes/Document) class that represents a OneNote file. The Document class exposes the AutomaticLayoutChangesDetectionEnabled property and DetectLayoutChanges method, their combined use enable users to disable automatic detection of layout changes and handle them manually:
+Aspose.Note for Java offers the [Document](https://apireference.aspose.com/note/java/com.aspose.note/Document) class that represents a OneNote file. The Document class exposes the AutomaticLayoutChangesDetectionEnabled property and DetectLayoutChanges method, their combined use enable users to disable automatic detection of layout changes and handle them manually:
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-load-OptimizePerformanceForConsequentExportOperations-ConsequentExportOperations.java" >}}
 ## **Working with Password Protected OneNote Documents**
 {{% alert color="primary" %}} 
 
-Aspose.Note API allows to load password protected OneNote documents. The API's LoadOptions class provides the setDocumentPassword method to specify the document password.
+Aspose.Note API allows to load password-protected OneNote documents. The API's LoadOptions class provides the setDocumentPassword method to specify the document password.
 
 {{% /alert %}} 
 ### **Creating Password Protected OneNote Documents**
-Aspose.Note API lets you set document password while saving OneNote documents. The setDocumentPassword method exposed by OneSaveOptions class provides the capability to password protect a document.
+Aspose.Note API allows to set password for the document while saving OneNote documents. The setDocumentPassword method exposed by OneSaveOptions class provides the capability to password protect a document.
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-load-CreatePasswordProtectedOneNoteDocuments-CreatePasswordProtectedOneNoteDocuments.java" >}}
 
 
 ### **Loading Password Protected OneNote Documents**
-A password protected OneNote document can be loaded using the following steps:
+A password-protected OneNote document can be loaded using the following steps:
 
 1. Create a new object of LoadOptions class
 1. Specify the password of the document using the setDocumentPassword method
-1. Load the document with the defined object of LoadOptions class
+1. Load the document with the defined object of the LoadOptions class
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-load-LoadPasswordProtectedOneNoteDoc-PasswordProtectedDoc.java" >}}
 ## **Setting Page Splitting Algorithm**
-While converting a OneNote document to other formats, images and other contents may get disturbed due to their position in the document. Thus, it is necessary to specify some method to split page. The PdfSaveOptions.PageSplittingAlgorithm property provides different options to specify an algorithm of page splitting. These options are:
+While converting a OneNote document to other formats, images and other contents may get disturbed due to their position in the document. Thus, it is necessary to specify some methods to split a page. The PdfSaveOptions.PageSplittingAlgorithm property provides different options to specify an algorithm of page splitting. These options are:
 
 - **AlwaysSplitObjectsAlgorithm** - Splits objects into several parts at pages' bottom position.
-- **KeepPartAndCloneSolidObjectToNextPageAlgorithm** - Adds objects up to the bottom of the page and clones full object to the next page in case it doesn't fit in the original page.
+- **KeepPartAndCloneSolidObjectToNextPageAlgorithm** - Adds objects up to the bottom of the page and clone full object to the next page in case it doesn't fit in the original page.
 - **KeepSolidObjectsAlgorithm** - Shifts full object to the next page in case it doesn't fit in the original page.
 
 The default algorithm is **KeepSolidObjectsAlgorithm**.
@@ -61,7 +61,7 @@ For KeepPartAndCloneSolidObjectToNextPageAlgorithm and KeepSolidObjectsAlgorithm
 ![todo:image_alt_text](load-a-onenote-document_2.png)
 
 
-\2. Limit is sufficient and images were completely cloned to the next page.
+\2. The limit is sufficient and images were completely cloned to the next page.
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-load-UsingKeepSolidObjectsAlgorithm-UsingKeepSolidObjectsAlgorithm2.java" >}}
 
@@ -71,9 +71,6 @@ For KeepPartAndCloneSolidObjectToNextPageAlgorithm and KeepSolidObjectsAlgorithm
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-load-UsingKeepSolidObjectsAlgorithm-UsingKeepSolidObjectsAlgorithm3.java" >}}
 
-
-
-
 ![todo:image_alt_text](load-a-onenote-document_4.png)
 
 
@@ -81,11 +78,8 @@ For KeepPartAndCloneSolidObjectToNextPageAlgorithm and KeepSolidObjectsAlgorithm
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-load-UsingKeepSolidObjectsAlgorithm-UsingKeepSolidObjectsAlgorithm4.java" >}}
 
-
-
-
 ![todo:image_alt_text](load-a-onenote-document_5.png)
 #### **AlwaysSplitObjectsAlgorithm**
-Images were splitted on the pages joint.
+Images were split into the pages joint.
 
 ![todo:image_alt_text](load-a-onenote-document_1.png)

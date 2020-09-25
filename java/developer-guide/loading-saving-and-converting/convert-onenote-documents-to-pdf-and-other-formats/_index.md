@@ -14,7 +14,7 @@ Please note that you cannot set values against the **Application** and **Prod
 
 PDF documents are widely used as a standard format of exchanging documents between organizations, government sectors and individuals. It's a popular format so developers are often asked to convert Microsoft OneNote documents to PDF documents. For this purpose, Aspose.Note for Java supports converting OneNote to PDF documents without using any other component. This topic illustrates how this conversion can be done.
 
-Aspose.Note for Java offers the [Document](http://www.aspose.com/api/java/note/com.aspose.note/classes/Document) class that represents a OneNote file. The Document class exposes the Save method that can be called to convert a OneNote document into a PDF document. The [PdfSaveOptions](http://www.aspose.com/api/java/note/com.aspose.note/classes/PdfSaveOptions) class provides options for creating the PDF such as PageIndex, PageCount and others.
+Aspose.Note for Java offers the [Document](https://apireference.aspose.com/note/java/com.aspose.note/Document) class that represents a OneNote file. The Document class exposes the Save method that can be called to convert a OneNote document into a PDF document. The [PdfSaveOptions](https://apireference.aspose.com/note/java/com.aspose.note/PdfSaveOptions) class provides options for creating the PDF such as PageIndex, PageCount and others.
 
 This article shows how to:
 
@@ -35,7 +35,7 @@ The following example shows how to convert a OneNote into a PDF document with a 
 ## **Converting OneNote to Image**
 Aspose.Note supports converting OneNote file to images. To use this feature, import the Aspose.Note.Saving namespace into your application project. It has numerous valuable classes for rendering, for example ImageSaveOptions, PdfSaveOptions, and SaveOptions.
 
-Aspose.Note API offers the [Document](http://www.aspose.com/api/java/note/com.aspose.note/classes/Document) class that represents a OneNote file. The Document class exposes the Save method that can be called to convert the OneNote file into an image format. The [ImageSaveOptions](http://www.aspose.com/api/java/note/com.aspose.note/classes/ImageSaveOptions) class provides options for creating PNG, GIF, JPEG or BMP files, such as PageIndex, SaveFormat and others.
+Aspose.Note API offers the [Document](https://apireference.aspose.com/note/java/com.aspose.note/Document) class that represents a OneNote file. The Document class exposes the Save method that can be called to convert the OneNote file into an image format. The [ImageSaveOptions](https://apireference.aspose.com/note/java/com.aspose.note/ImageSaveOptions) class provides options for creating PNG, GIF, JPEG or BMP files, such as PageIndex, SaveFormat and others.
 
 This article shows how to:
 

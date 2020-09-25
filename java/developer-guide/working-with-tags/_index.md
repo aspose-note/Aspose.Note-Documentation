@@ -6,7 +6,7 @@ url: /java/working-with-tags/
 ---
 
 ## **Get Note Tag Details from OneNote Document**
-The NoteTag class provides all the properties related to a note tag in a Microsoft OneNote document. All the OneNote file's note tags are contained by RichText nodes of the [Document](http://www.aspose.com/api/java/note/com.aspose.note/classes/Document) object.
+The NoteTag class provides all the properties related to a note tag in a Microsoft OneNote document. All the OneNote file's note tags are contained by RichText nodes of the [Document](https://apireference.aspose.com/note/java/com.aspose.note/Document) object.
 
 **The OneNote file displaying a note tag.** 
 
@@ -22,9 +22,9 @@ The NoteTag class provides all the properties related to a note tag. Users can n
 
 These articles show how to:
 
-- [Add a New Text Node with a Tag](/note/java/working-with-tags/).
-- [Add a New Image Node with a Tag](/note/java/working-with-tags/).
-- [Add a New Table Node with a Tag](/note/java/working-with-tags/).
+- [Add a New Text Node with a Tag](/note/java/working-with-tags/#add-a-new-text-node-with-a-tag).
+- [Add a New Image Node with a Tag](/note/java/working-with-tags/#add-a-new-image-node-with-a-tag).
+- [Add a New Table Node with a Tag](/note/java/working-with-tags/#add-a-new-table-node-with-a-tag).
 ### **Add a New Text Node with a Tag**
 The code below shows how to add a new text node with a tag in the OneNote document.
 

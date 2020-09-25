@@ -8,7 +8,7 @@ url: /java/working-with-tasks/
 ## **Get Outlook Task Details from a OneNote Document**
 {{% alert color="primary" %}} 
 
-The NoteTask class provides all the properties related to a Microsoft OneNote document's Outlook tasks. All the file's Outlook tasks are contained by RichText nodes in the [Document](/pages/createpage.action?spaceKey=notejava&title=com.aspose.note.Document+class&linkCreation=true&fromPageId=19398692) object.
+The NoteTask class provides all the properties related to a Microsoft OneNote document's Outlook tasks. All the file's Outlook tasks are contained by RichText nodes in the [Document](https://apireference.aspose.com/note/java/com.aspose.note/Document) object.
 
 {{% /alert %}} 
 ### **Get Outlook Task Details**
