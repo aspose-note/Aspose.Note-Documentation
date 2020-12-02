@@ -15,12 +15,12 @@ The save method exposed by the API lets you save the document to image formats. 
 - Save(string, SaveFormat)
 
 ### **Saving a Document as Image in BMP format Using ImageSaveOptions**
-{{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Loading-and-Saving-SaveToBmpImageUsingImageSaveOptions-SaveToBmpImageUsingImageSaveOptions.cs" >}}
+{{< gist "aspose-note-gists" "ea99b163e8b22eca0473e9be10c83d7c" "Examples-CSharp-Loading-and-Saving-SaveToBmpImageUsingImageSaveOptions.cs" >}}
 ### **Saving a Document as Image in Jpeg format Using SaveFormat**
-{{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Loading-and-Saving-SaveToJpegImageUsingSaveFormat-SaveToJpegImageUsingSaveFormat.cs" >}}
+{{< gist "aspose-note-gists" "ea99b163e8b22eca0473e9be10c83d7c" "Examples-CSharp-Loading-and-Saving-SaveToJpegImageUsingSaveFormat.cs" >}}
 ### **Saving a Document as Grayscale Image**
-{{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Loading-and-Saving-SaveToGrayscaleImage-SaveToGrayscaleImage.cs" >}}
+{{< gist "aspose-note-gists" "ea99b163e8b22eca0473e9be10c83d7c" "Examples-CSharp-Loading-and-Saving-SaveToGrayscaleImage.cs" >}}
 ### **Saving a Document as Binary Image Using Fixed Threshold**
-{{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Loading-and-Saving-SaveToBinaryImageUsingFixedThreshold-SaveToBinaryImageUsingFixedThreshold.cs" >}}
+{{< gist "aspose-note-gists" "ea99b163e8b22eca0473e9be10c83d7c" "Examples-CSharp-Loading-and-Saving-SaveToBinaryImageUsingFixedThreshold.cs" >}}
 ### **Saving a Document as Binary Image Using Otsu's Method**
-{{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Loading-and-Saving-SaveToBinaryImageUsingOtsuMethod-SaveToBinaryImageUsingOtsuMethod.cs" >}}
+{{< gist "aspose-note-gists" "ea99b163e8b22eca0473e9be10c83d7c" "Examples-CSharp-Loading-and-Saving-SaveToBinaryImageUsingOtsuMethod.cs" >}}
