@@ -23,6 +23,18 @@ The following code example demonstrates how to convert a OneNote into a PDF docu
 The following code example demonstrates how to convert a OneNote into a PDF document with a specified page range as provided by the PdfSaveOptions class. It sets the PageIndex and PageCount properties.
 
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Loading-and-Saving-SaveRangeOfPagesAsPDF-SaveRangeOfPagesAsPDF.cs" >}}
+### **Converting OneNote to PDF with replacing of missing fonts**
+The following code example demonstrates how to set default font name.
+
+{{< gist "aspose-note-gists" "ea99b163e8b22eca0473e9be10c83d7c" "Examples-CSharp-Loading-and-Saving-SaveUsingSpecifiedFontsSubsystem.cs-SaveUsingDocumentFontsSubsystemWithDefaultFontName" >}}
+
+The following code example demonstrates how to set font from a file as default.
+
+{{< gist "aspose-note-gists" "ea99b163e8b22eca0473e9be10c83d7c" "Examples-CSharp-Loading-and-Saving-SaveUsingSpecifiedFontsSubsystem.cs-SaveUsingDocumentFontsSubsystemWithDefaultFontFromFile" >}}
+
+The following code example demonstrates how to set font from a stream as default.
+
+{{< gist "aspose-note-gists" "ea99b163e8b22eca0473e9be10c83d7c" "Examples-CSharp-Loading-and-Saving-SaveUsingSpecifiedFontsSubsystem.cs-SaveUsingDocumentFontsSubsystemWithDefaultFontFromStream" >}}
 ## **Converting a OneNote Document to Image**
 Aspose.Note supports converting OneNote file to images. To use this feature, import the Aspose.Note.Saving namespace into your application project. It has numerous valuable classes for rendering, for example ImageSaveOptions, PdfSaveOptions and SaveOptions.
 
