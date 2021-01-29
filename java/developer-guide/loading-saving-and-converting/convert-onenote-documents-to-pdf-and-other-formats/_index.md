@@ -32,6 +32,18 @@ The following example shows how to convert a OneNote into a PDF document using t
 The following example shows how to convert a OneNote into a PDF document with a specified page range as provided by the PdfSaveOptions class. It sets the PageIndex and PageCount properties.
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-load-ConvertSpecificPageRangeToPdf-SaveRangeOfPagesAsPDF.java" >}}
+### **Converting OneNote to PDF with replacing of missing fonts**
+The following code example demonstrates how to set default font name.
+
+{{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-load-SaveUsingSpecifiedFontsSubsystem.java-SaveUsingDocumentFontsSubsystemWithDefaultFontName" >}}
+
+The following code example demonstrates how to set font from a file as default.
+
+{{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-load-SaveUsingSpecifiedFontsSubsystem.java-SaveUsingDocumentFontsSubsystemWithDefaultFontFromFile" >}}
+
+The following code example demonstrates how to set font from a stream as default.
+
+{{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-load-SaveUsingSpecifiedFontsSubsystem.java-SaveUsingDocumentFontsSubsystemWithDefaultFontFromStream" >}}
 ## **Converting OneNote to Image**
 Aspose.Note supports converting OneNote file to images. To use this feature, import the Aspose.Note.Saving namespace into your application project. It has numerous valuable classes for rendering, for example ImageSaveOptions, PdfSaveOptions, and SaveOptions.
 
