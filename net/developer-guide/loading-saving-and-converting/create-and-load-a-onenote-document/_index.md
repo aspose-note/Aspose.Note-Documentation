@@ -56,6 +56,8 @@ A password-protected OneNote document can be loaded using the following steps:
 
 
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Loading-and-Saving-PasswordProtectedDoc-PasswordProtectedDoc.cs" >}}
+{{< gist "aspose-note-gists" "ea99b163e8b22eca0473e9be10c83d7c" "Examples-CSharp-Loading-and-Saving-LoadOneNoteDoc.cs-Document_CheckIfEncryptedAndLoad" >}}
+{{< gist "aspose-note-gists" "ea99b163e8b22eca0473e9be10c83d7c" "Examples-CSharp-Loading-and-Saving-LoadOneNoteDoc.cs-Document_CheckIfEncryptedByPasswordAndLoad" >}}
 ## **Setting Page Splitting Algorithm**
 While converting a OneNote document to other formats, images and other contents may get disturbed due to their position in the document. Thus, it is necessary to specify some methods to split the page. The PdfSaveOptions.PageSplittingAlgorithm property provides different options to specify an algorithm of page splitting. These options are:
 
