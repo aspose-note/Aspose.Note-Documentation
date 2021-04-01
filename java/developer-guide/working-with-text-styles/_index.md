@@ -23,4 +23,16 @@ The output of the code snippet below is shown in the figure.
 
 ![todo:image_alt_text](working-with-text-styles_1.png)
 
+### **Change style of the paragraph.**
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-styles-ChangeTextStyle-ChangeTextStyle.java" >}}
+### **Set default paragraph style settings.**
+{{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-styles-SetDefaultParagraphStyle.java" >}}
+
+The output file looks like:
+![todo:image_alt_text](SetDefaultParagraphStyle.png)
+
+### **Set proofing language for a text.**
+{{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-text-SetProofingLanguageForText.java" >}}
+
+The output file looks like:
+![todo:image_alt_text](SetProofingLanguageForText.png)
