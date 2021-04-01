@@ -36,6 +36,8 @@ A password-protected OneNote document can be loaded using the following steps:
 1. Load the document with the defined object of the LoadOptions class
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-load-LoadPasswordProtectedOneNoteDoc-PasswordProtectedDoc.java" >}}
+{{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-load-CheckIfDocumentIsEncrypted.java-CheckIfDocumentFromStreamIsEncrypted" >}}
+{{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-load-CheckIfDocumentIsEncrypted.java-CheckIfDocumentFromFileIsEncrypted" >}}
 ## **Setting Page Splitting Algorithm**
 While converting a OneNote document to other formats, images and other contents may get disturbed due to their position in the document. Thus, it is necessary to specify some methods to split a page. The PdfSaveOptions.PageSplittingAlgorithm property provides different options to specify an algorithm of page splitting. These options are:
 

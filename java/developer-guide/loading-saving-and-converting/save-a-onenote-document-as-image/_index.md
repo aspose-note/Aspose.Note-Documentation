@@ -18,9 +18,15 @@ The save method exposed by the API lets you save the document to image formats. 
 {{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-load-SaveToBmpImageUsingImageSaveOptions.java" >}}
 ### **Saving a Document as Image in Jpeg format Using SaveFormat**
 {{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-load-SaveToJpegImageUsingSaveFormat.java" >}}
+### **Saving a Document as Image in TIFF format Using JPEG compression**
+{{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-load-SaveToTiffImageUsingImageSaveOptions.java-SaveToTiffUsingJpegCompression" >}}
+### **Saving a Document as Image in TIFF format Using PackBits compression**
+{{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-load-SaveToTiffImageUsingImageSaveOptions.java-SaveToTiffUsingPackBitsCompression" >}}
 ### **Saving a Document as Grayscale Image**
 {{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-load-SaveToGrayscaleImage.java" >}}
 ### **Saving a Document as Binary Image Using Fixed Threshold**
 {{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-load-SaveToBinaryImageUsingFixedThreshold.java" >}}
 ### **Saving a Document as Binary Image Using Otsu's Method**
 {{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-load-SaveToBinaryImageUsingOtsuMethod.java" >}}
+### **Saving a Document as Binary Image in TIFF format Using CCITT Group 3 fax compression.**
+{{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-load-SaveToTiffImageUsingImageSaveOptions.java-SaveToTiffUsingCcitt3Compression" >}}
