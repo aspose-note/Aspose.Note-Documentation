@@ -12,11 +12,11 @@ The evaluation version provides all the features except the following:
 
 |**Usage context**|**Restrictions**|
 | :- | :- |
-|Opened MS OneNote document |Evaluation watermark is placed at the top of each page. History data are restricted to the maximum number of three revisions per accessible page (current revision and two archive). Text elements are cutted to 500 characters. Table elements are cutted to three-by-three size. Image elements which exeed the limit of 500Kb are replaced by evaluation message as an alternative text. |
-|Created MS OneNote document |Evaluation watermark is placed at the top of the first two pages. The rest of the pages are deleted. Image elements which exeed the limit of 500Kb are replaced by evaluation message as an alternative text. |
+|Opened MS OneNote document |Evaluation watermark is placed at the top of each page. First page has two full latest version of the page(current revision and one archive). Each another page has title with body replaced by evaluation watermark. Text elements are cut to 140 characters. Every third text element are replaced by watermark. Table elements are cut to three-by-three size. Image elements which exceed the limit of 500Kb are modified by writing evaluation message over the image. Every second image is erased.|
+|Created MS OneNote document |Evaluation watermark is placed at the top of each page. First page шы saved including body's content. The body of each another page is replaced by evaluation watermark. Image elements which exceed the limit of 500Kb are modified by writing evaluation message over the image. Every second image is erased.|
 |Opened/Created MS OneNote notebook |The number of the sections is restricted to two. The content of the rest of the sections are replaced by one empty page with evaluation watermark at the top. |
-|Export MS OneNote to PDF |Evaluation watermark is placed at the top of the first two pages of PDF file. The rest of the pages are deleted. |
-|Export MS OneNote to image file |Evaluation watermark is placed at the top of an image. |
+|Export MS OneNote to PDF |Evaluation watermark is placed at the top of each page of PDF file. The body of each page except the first one is deleted.|
+|Export MS OneNote to image file |Evaluation watermark is placed at the top of an image.|
 {{% alert color="primary" %}} 
 
 If you want to try Aspose.Note without evaluation limitations, request a 30 day temporary license. Please refer to [How to get a Temporary License?](http://www.aspose.com/corporate/purchase/faqs/temporary-license.aspx) For more information.
