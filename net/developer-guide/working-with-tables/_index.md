@@ -63,7 +63,10 @@ Aspose.Note for .NET offers the [Document](https://apireference.aspose.com/note/
 The following code example demonstrates how to insert a table with locked columns in a OneNote document.
 
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Tables-CreateTableWithLockedColumns-CreateTableWithLockedColumns.cs" >}}
-## **Setting Cell Background Color**
-{{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Tables-SettingCellBackGroundColor-SettingCellBackGroundColor.cs" >}}
 ## **GetOutlineElementWithText Method**
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Tables-InsertTable-GetOutlineElementWithText.cs" >}}
+## **Setting Cell Background Color**
+{{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Tables-SettingCellBackGroundColor-SettingCellBackGroundColor.cs" >}}
+## **Changing style of a table**
+{{< gist "aspose-note-gists" "ea99b163e8b22eca0473e9be10c83d7c" "Examples-CSharp-Tables-ChangeTableStyle.cs-ChangeTableStyle" >}}
+![todo:image_alt_text](ChangeTableStyle.png)
