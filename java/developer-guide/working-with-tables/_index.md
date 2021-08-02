@@ -71,7 +71,10 @@ Aspose.Note for Java offers the Document class that represents a OneNote file. D
 The following example shows how to insert a table with locked columns in a OneNote document.
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-tables-CreateTableWithLockedColumns-CreateTableWithLockedColumns.java" >}}
-## **Setting Cell Background Color**
-{{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-tables-SettingCellBackgroundColor-SettingCellBackgroundColor.java" >}}
 ## **GetOutlineElementWithText Method**
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-tables-InsertTable-GetOutlineElementWithText.java" >}}
+## **Setting Cell Background Color**
+{{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-tables-SettingCellBackgroundColor-SettingCellBackgroundColor.java" >}}
+## **Changing style of a table**
+{{< gist "aspose-note-gists" "0cd64f0457fdd6d56a68993a62169500" "src-main-java-com-aspose-note-examples-tables-ChangeTableStyle.java" >}}
+![todo:image_alt_text](ChangeTableStyle.png)
