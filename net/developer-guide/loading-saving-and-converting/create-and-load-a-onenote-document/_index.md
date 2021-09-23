@@ -37,7 +37,7 @@ The Document class exposed by the API can be used to load Microsoft OneNote .one
 
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Loading-and-Saving-SaveRangeOfPagesAsPDF-LoadOneNote.cs" >}}
 ## **Increase Performance for Consequent Export Operations**
-[Aspose.Note for .NET APIs](http://www.aspose.com/.net/onenote-component.aspx) allow to increase performance for consequent export operations. Users may involve in multiple conversions to several supported formats. In such scenarios, the performance is the highly affecting factor.
+[Aspose.Note for .NET APIs](https://products.aspose.com/note/net) allow to increase performance for consequent export operations. Users may involve in multiple conversions to several supported formats. In such scenarios, the performance is the highly affecting factor.
 
 Aspose.Note for .NET offers the [Document](https://apireference.aspose.com/note/net/aspose.note/document) class that represents a OneNote file. The Document class exposes the AutomaticLayoutChangesDetectionEnabled property and DetectLayoutChanges method, their combine use enable users to disable automatic detection of layout changes and handle them manually:
 

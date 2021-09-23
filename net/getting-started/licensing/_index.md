@@ -6,7 +6,7 @@ url: /net/licensing/
 ---
 
 ## **Evaluation Version Limitations**
-A free evaluation version of Aspose.Note for .NET can be downloaded from the downloads section of Aspose's web site at: <http://www.aspose.com/community/files/51/.net-components/aspose.note-for-.net/default.aspx>.
+A free evaluation version of Aspose.Note for .NET can be downloaded from the downloads section of Aspose's web site at: <https://downloads.aspose.com/>.
 ### **Limitation**
 The evaluation version provides all the features except the following:
 
@@ -19,7 +19,7 @@ The evaluation version provides all the features except the following:
 |Export MS OneNote to image file |Evaluation watermark is placed at the top of an image.|
 {{% alert color="primary" %}} 
 
-If you want to try Aspose.Note without evaluation limitations, request a 30 day temporary license. Please refer to [How to get a Temporary License?](http://www.aspose.com/corporate/purchase/faqs/temporary-license.aspx) For more information.
+If you want to try Aspose.Note without evaluation limitations, request a 30 day temporary license. Please refer to [How to get a Temporary License?](https://purchase.aspose.com/temporary-license) For more information.
 
 {{% /alert %}} 
 ## **Other Limitations**

@@ -6,7 +6,7 @@ url: /net/working-with-text/
 ---
 
 ## **Extract Text from OneNote Document**
-One of the tasks that developers need to perform is extracting text from an OneNote document. [Aspose.Note for .NET](http://www.aspose.com/.net/onenote-component.aspx) allows developers to extract text from OneNote document in various ways.
+One of the tasks that developers need to perform is extracting text from an OneNote document. [Aspose.Note for .NET](https://products.aspose.com/note/net) allows developers to extract text from OneNote document in various ways.
 
 Aspose.Note for .NET offers the [Document](https://apireference.aspose.com/note/net/aspose.note/document) class that represents the OneNote file. The simple LINQ can be used to extract text from the OneNote document.
 ### **Extracting All Text from OneNote Document**
@@ -42,7 +42,7 @@ The following code example demonstrates how to replace text on a particular page
 
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Text-ReplaceTextOnParticularPage-ReplaceTextOnParticularPage.cs" >}}
 ## **Retrieve Bullet or Number List Properties**
-[Aspose.Note for .NET](http://www.aspose.com/.net/onenote-component.aspx) provides comprehensive support for Microsoft OneNote lists. Developers can access a number of list properties, such as font name, numbering format, and many others.
+[Aspose.Note for .NET](https://products.aspose.com/note/net) provides comprehensive support for Microsoft OneNote lists. Developers can access a number of list properties, such as font name, numbering format, and many others.
 ### **Retrieving Properties**
 Aspose.Note for .NET offers the [OutlineElement](https://apireference.aspose.com/note/net/aspose.note/outlineelement) class that represents an outline inside a OneNote document. The OutlineElement class exposes the NumberList property that can be called to extract bullet or numbered list properties. The following example shows how to extract bullet or numbered list properties from a OneNote document.
 
@@ -82,7 +82,7 @@ The following code example demonstrates how to apply a bullet on the OneNote doc
 
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Text-ApplyNumberingOnText-ApplyNumberingOnText.cs" >}}
 ## **Insert Chinese Number List in the OneNote Document**
-[Aspose.Note for .NET APIs](http://www.aspose.com/.net/onenote-component.aspx) support inserting the Chinese number list in the OneNote document.
+[Aspose.Note for .NET APIs](https://products.aspose.com/note/net) support inserting the Chinese number list in the OneNote document.
 
 Aspose.Note for .NET offers the [Document](https://apireference.aspose.com/note/net/aspose.note/document) class that represents the OneNote file. Inserting the Chinese number list to the OneNote document page involves creating an [OutlineElement](https://apireference.aspose.com/note/net/aspose.note/outlineelement), which offers NumberList property to define the bullet.
 
