@@ -11,7 +11,7 @@ url: /net/product-overview/
 
 **Welcome to the Aspose.Note for .NET documentation section**
 
-[Aspose.Note for .NET](http://www.aspose.com/.net/onenote-component.aspx) is a class library that enables .NET applications to interact with Microsoft Office OneNote programmatically without the software being installed on the server. The Aspose.Note API lets developers read, convert, create, edit and manipulate the content of the Microsoft OneNote file format.
+[Aspose.Note for .NET](https://products.aspose.com/note/net) is a class library that enables .NET applications to interact with Microsoft Office OneNote programmatically without the software being installed on the server. The Aspose.Note API lets developers read, convert, create, edit and manipulate the content of the Microsoft OneNote file format.
 
 With Aspose.Note for .NET, it is possible to program with Microsoft OneNote files without Microsoft Office Automation. The API is easy to use and saves time and money compared to developing similar solutions from scratch.
 
@@ -56,14 +56,14 @@ Aspose.Note for .NET is designed to perform equally well server or client-side. 
 ## **Technical Support**
 Aspose provides unlimited free technical support for all its products. Support is available to all users, including evaluation.
 
-If you need help with [Aspose.Note for .NET](http://www.aspose.com/.net/onenote-component.aspx), [**visit the Aspose.Forums**](http://www.aspose.com/community/forums/default.aspx). Post your question in the Aspose.Note for .NET forum and it will be answered within a few hours. The questions are answered directly by the Aspose.Note for .NET support team.
+If you need help with [Aspose.Note for .NET](https://products.aspose.com/note/net), [**visit the Aspose.Forums**](https://forum.aspose.com/). Post your question in the Aspose.Note for .NET forum and it will be answered within a few hours. The questions are answered directly by the Aspose.Note for .NET support team.
 
 When expecting a reply in the forums, please allow for time zone differences.
 
 If you have an issue with Aspose.Note for .NET, follow these simple steps to make sure it is resolved in the most efficient way:
 
-- Make sure you use the latest Aspose.Note for .NET version before reporting the issue. Refer to the [Aspose.Note for .NET download page](http://www.aspose.com/community/files/51/.net-components/aspose.note-for-.net/default.aspx) to find out about the latest version.
-- Have a look through the [forum](http://www.aspose.com/community/forums/aspose.note-product-family/522/showforum.aspx), [this documentation Wiki](http://www.aspose.com/docs/display/notenet/Home) and the API Reference for solutions before reporting the issue. Your question might already have an answer.
+- Make sure you use the latest Aspose.Note for .NET version before reporting the issue. Refer to the [Aspose.Note for .NET download page](https://downloads.aspose.com/note/net) to find out about the latest version.
+- Have a look through the [forum](https://forum.aspose.com/c/note/28), [this documentation Wiki](https://docs.aspose.com/note/net/) and the API Reference for solutions before reporting the issue. Your question might already have an answer.
 - When reporting an issue, please include the original document and possibly a fragment of the code that causes the problem. If you need to attach multiple files, zip them into one. It is safe to attach your documents in Aspose.Forums since only you and Aspose developers will have access to the attached files.
 - Please try to report one issue per thread. If you have another issue, report it in a separate thread.
 
@@ -73,9 +73,9 @@ This table lists important Aspose.Note for .NET technical resources.
 
 |**Resource**|**Description**|
 | :- | :- |
-|[Aspose.Note home Page](http://www.aspose.com/.net/onenote-component.aspx)|Product home page.|
-|[Aspose.Note blog](http://www.aspose.com/blogs/aspose-products/aspose-note-product-family.html)|Check this often for information about new releases and useful tips about Aspose.Note.|
-|[Aspose.Note for .NET download](http://www.aspose.com/community/files/51/.net-components/aspose.note-for-.net/default.aspx)|Download the latest version of Aspose.Note from here. We release often.|
-|[Aspose.Note for .NET support forum](http://www.aspose.com/community/forums/aspose.note-product-family/522/showforum.aspx)|Post your questions and issues here for a speedy resolution.|
-|[Aspose.Note for .NET product documentation](http://www.aspose.com/docs/display/notenet/Home)|Full online documentation that includes this documentation as well as Aspose.Note API Reference.|
+|[Aspose.Note home Page](https://products.aspose.com/note/net)|Product home page.|
+|[Aspose.Note blog](https://blog.aspose.com/category/note/)|Check this often for information about new releases and useful tips about Aspose.Note.|
+|[Aspose.Note for .NET download](https://downloads.aspose.com/total)|Download the latest version of Aspose.Note from here. We release often.|
+|[Aspose.Note for .NET support forum](https://forum.aspose.com/c/note/28)|Post your questions and issues here for a speedy resolution.|
+|[Aspose.Note for .NET product documentation](https://docs.aspose.com/note/net/)|Full online documentation that includes this documentation as well as Aspose.Note API Reference.|
 
