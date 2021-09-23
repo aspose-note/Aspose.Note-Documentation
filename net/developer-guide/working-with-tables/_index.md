@@ -6,7 +6,7 @@ url: /net/working-with-tables/
 ---
 
 ## **Extracting Plain Text from the Table of OneNote Document**
-[Aspose.Note for .NET](http://www.aspose.com/.net/onenote-component.aspx) allows developers to extract text from the entire table, a row or a particular cell element.
+[Aspose.Note for .NET](https://products.aspose.com/note/net) allows developers to extract text from the entire table, a row or a particular cell element.
 
 Aspose.Note for .NET offers the [Document](https://apireference.aspose.com/note/net/aspose.note/document) class that represents a OneNote file. The Document class exposes the GetChildNodes method that can be called to extract table nodes from a OneNote document.
 ### **Get Table Text from OneNote Document**
@@ -48,7 +48,7 @@ The following code example demonstrates how to get cell text from a row of the t
 
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Tables-ExtractCellText-ExtractCellText.cs" >}}
 ## **Insert a Table in OneNote Document**
-[Aspose.Note for .NET](http://www.aspose.com/.net/onenote-component.aspx) APIs allows developers to insert a table at the particular node position. This article is meant to show you how to create a table in OneNote document programmatically.
+[Aspose.Note for .NET](https://products.aspose.com/note/net) APIs allows developers to insert a table at the particular node position. This article is meant to show you how to create a table in OneNote document programmatically.
 
 Aspose.Note for .NET offers the [Document](https://apireference.aspose.com/note/net/aspose.note/document) class that represents a OneNote file. Developers can append content under [TableCell](https://apireference.aspose.com/note/net/aspose.note/tablecell) node, table cells to the [TableRow](https://apireference.aspose.com/note/net/aspose.note/tablerow) node, table row to the [Table](https://apireference.aspose.com/note/net/aspose.note/table) node. Later they could append table under [OutlineElement](https://apireference.aspose.com/note/net/aspose.note/outlineelement) node, outline element to [Outline](https://apireference.aspose.com/note/net/aspose.note/outline) node, outline to [Page](https://apireference.aspose.com/note/net/aspose.note/page) node and then a page to the Document node. It's all based on the **Aspose.Note DOM structure**.
 
@@ -56,7 +56,7 @@ The following code example demonstrates how to insert a table in a OneNote docum
 
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Tables-InsertTable-InsertTable.cs" >}}
 ## **Create a Table with Locked Columns in the OneNote Document**
-[Aspose.Note for .NET](http://www.aspose.com/.net/onenote-component.aspx) APIs allows developers to insert a table at the particular node position. This article is meant to show you how to create a table with a locked column in OneNote document programmatically.
+[Aspose.Note for .NET](https://products.aspose.com/note/net) APIs allows developers to insert a table at the particular node position. This article is meant to show you how to create a table with a locked column in OneNote document programmatically.
 
 Aspose.Note for .NET offers the [Document](https://apireference.aspose.com/note/net/aspose.note/document) class that represents a OneNote file. Developers can append content under [TableCell](https://apireference.aspose.com/note/net/aspose.note/tablecell) node, table cells to the [TableRow](https://apireference.aspose.com/note/net/aspose.note/tablerow) node, table row to the [Table](https://apireference.aspose.com/note/net/aspose.note/table) node. LockedWidth property of the Table class allows to bolt its width. Later they could append table under [OutlineElement](https://apireference.aspose.com/note/net/aspose.note/outlineelement) node, outline element to [Outline](https://apireference.aspose.com/note/net/aspose.note/outline) node, outline to [Page](https://apireference.aspose.com/note/net/aspose.note/page) node and then a page to the Document node. It's all based on the **Aspose.Note DOM structure**.
 
