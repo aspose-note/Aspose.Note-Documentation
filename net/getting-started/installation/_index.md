@@ -19,7 +19,7 @@ Type the command “**Install-Package Aspose.Note -Version x.x.0**” and press 
 
 ![todo:image_alt_text](installation_2.png)
 
-If you are not familiar with the [Aspose EULA](http://www.aspose.com/corporate/purchase/end-user-license-agreement.aspx) then it is a good idea to read the license referenced in the URL. 
+If you are not familiar with the [Aspose EULA](https://library.conholdate.app/view/NaOfm5N5Y2cN9AGNQ/aspose_end-user-license-agreement_2021-01-19.pdf?preview=true.pdf) then it is a good idea to read the license referenced in the URL. 
 
 You should now find that Aspose.Note has successfully been added and referenced in your application for you.
 
