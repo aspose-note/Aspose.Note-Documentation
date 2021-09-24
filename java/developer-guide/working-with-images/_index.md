@@ -23,7 +23,7 @@ This example shows how to extract images from a OneNote document and save them a
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-images-ExtractImages-ExtractImages.java" >}}
 ## **Get Information of Each Image from the OneNote Document**
-The [Image](https://apireference.aspose.com/note/java/com.aspose.note/Image) class provides all the image properties for images in OneNote documents. All the images of the OneNote file are contained by image nodes in the [Document](https://apireference.aspose.com/note/java/com.aspose.not/Document) object.
+The [Image](https://apireference.aspose.com/note/java/com.aspose.note/Image) class provides all the image properties for images in OneNote documents. All the images of the OneNote file are contained by image nodes in the [Document](https://apireference.aspose.com/note/java/com.aspose.note/Document) object.
 ### **Get Information**
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-images-GetImageInfo-GetInformationOfImages.java" >}}
 ## **Adding Image to a OneNote Document Page and Saving as PDF**
@@ -37,7 +37,7 @@ These examples show how to:
 ### **Insert an Image in an Existing OneNote Document**
 To insert an image on a OneNote document, follow these steps:
 
-1. Use the [Document](https://apireference.aspose.com/note/java/com.aspose.note/document/methods/getFirstChild\(\)/).getFirstChild() property to get the first page.
+1. Use the [Document](https://apireference.aspose.com/note/java/com.aspose.note/Document).getFirstChild() property to get the first page.
 1. Use the [Image](https://apireference.aspose.com/note/java/com.aspose.note/Image) class constructor to load the image.
 1. Use the [Image](https://apireference.aspose.com/note/java/com.aspose.note/Image).getWidth() and [Image](https://apireference.aspose.com/note/java/com.aspose.note/Image).getHeight() properties to adjust size of the image.
 1. Use the [Image](https://apireference.aspose.com/note/java/com.aspose.note/Image).getVerticalOffset() and [Image](https://apireference.aspose.com/note/java/com.aspose.note/Image).getHorizontalOffset() properties to set location of the image.

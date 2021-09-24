@@ -24,7 +24,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Note for Java Release Notes](/note/java/release-notes/)
 - [Aspose.Note for Java Product Page](https://products.aspose.com/note/java)
 - [Install Aspose.Note for Java from Maven Repository](/note/java/installation/)
-- [Aspose.Note for Java API Reference Guide](https://apireference.aspose.com/java/note)
+- [Aspose.Note for Java API Reference Guide](https://apireference.aspose.com/note/java)
 - [Download Aspose.Note for Java from GitHub Repository](https://github.com/aspose-note/Aspose.Note-for-Java)
 - [Aspose.Note for Java Free Support Forum](https://forum.aspose.com/c/note)
 - [Aspose.Note for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
