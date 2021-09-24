@@ -60,7 +60,7 @@ When expecting a reply in the forums, please allow for time zone differences.
 
 If you have an issue with Aspose.Note for Java, follow these simple steps to make sure it is resolved in the most efficient way:
 
-- Have a look through the [forum](https://forum.aspose.com/c/note), this [documentation Wiki](/note/java/home/) and the [API Reference](https://apireference.aspose.com/note/java) for solutions before reporting the issue. Your question might already have an answer.
+- Have a look through the [forum](https://forum.aspose.com/c/note), this [documentation Wiki](/note/java/) and the [API Reference](https://apireference.aspose.com/note/java) for solutions before reporting the issue. Your question might already have an answer.
 - When reporting an issue, please include the original document and possibly a fragment of the code that causes the problem. If you need to attach multiple files, zip them into one. It is safe to attach your documents in Aspose.Forums since only you and Aspose developers will have access to the attached files.
 - Please try to report one issue per thread. If you have another issue, report it in a separate thread.
 
