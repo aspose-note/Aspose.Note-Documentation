@@ -9,7 +9,7 @@ url: /java/product-overview/
 
 ![todo:image_alt_text](product-overview_1.png)
 ### **Welcome to the Aspose.Note for Java documentation!**
-[Aspose.Note for Java](http://www.aspose.com/java/onenote-component.aspx) is a class library that enables java applications to interact with Microsoft Office OneNote programmatically without the software being installed on the server. The Aspose.Note API lets developers read, convert, create, edit and manipulate the content of the Microsoft OneNote file format.
+[Aspose.Note for Java](https://products.aspose.com/note/java) is a class library that enables java applications to interact with Microsoft Office OneNote programmatically without the software being installed on the server. The Aspose.Note API lets developers read, convert, create, edit and manipulate the content of the Microsoft OneNote file format.
 
 With Aspose.Note for Java, it is possible to program with Microsoft OneNote files without Microsoft Office Automation. The API is easy to use and saves time and money compared to developing similar solutions from scratch.
 
@@ -47,9 +47,9 @@ This table lists important Aspose.Note for Javatechnical resources.
 
 |**Resource**|**Description**|
 | :- | :- |
-|[Aspose.Note home Page](http://www.aspose.com/java/onenote-component.aspx)|Product home page.|
-|[Aspose.Note blog](http://www.aspose.com/blogs/aspose-products/aspose-note-product-family.html)|Check this often for information about new releases and useful tips about Aspose.Note.|
-|[Aspose.Note for Java download](http://www.aspose.com/community/files/72/java-components/aspose.note-for-java/default.aspx)|Download the latest version of Aspose.Note from here. We release often.|
-|[Aspose.Note for Java support forum](http://www.aspose.com/community/forums/aspose.note-product-family/522/showforum.aspx)|Post your questions and issues here for a speedy resolution.|
-|[Aspose.Note for Java product documentation](http://www.aspose.com/docs/display/notejava/Home)|Full online documentation that includes this documentation as well as Aspose.Note API Reference.|
+|[Aspose.Note home Page](https://products.aspose.com/note/java)|Product home page.|
+|[Aspose.Note blog](https://blog.aspose.com/category/note/)|Check this often for information about new releases and useful tips about Aspose.Note.|
+|[Aspose.Note for Java download](https://downloads.aspose.com/note/java)|Download the latest version of Aspose.Note from here. We release often.|
+|[Aspose.Note for Java support forum](https://forum.aspose.com/c/note/28)|Post your questions and issues here for a speedy resolution.|
+|[Aspose.Note for Java product documentation](https://docs.aspose.com/note/java/)|Full online documentation that includes this documentation as well as Aspose.Note API Reference.|
 
