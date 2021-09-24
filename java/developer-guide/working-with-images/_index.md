@@ -37,7 +37,7 @@ These examples show how to:
 ### **Insert an Image in an Existing OneNote Document**
 To insert an image on a OneNote document, follow these steps:
 
-1. Use the [Document](https://apireference.aspose.com/note/java/com.aspose.note/document/methods/getFirstChild\(\)/).getFirstChild() property to get the first page.
+1. Use the [Document](https://apireference.aspose.com/note/java/com.aspose.note/Document).getFirstChild() property to get the first page.
 1. Use the [Image](https://apireference.aspose.com/note/java/com.aspose.note/Image) class constructor to load the image.
 1. Use the [Image](https://apireference.aspose.com/note/java/com.aspose.note/Image).getWidth() and [Image](https://apireference.aspose.com/note/java/com.aspose.note/Image).getHeight() properties to adjust size of the image.
 1. Use the [Image](https://apireference.aspose.com/note/java/com.aspose.note/Image).getVerticalOffset() and [Image](https://apireference.aspose.com/note/java/com.aspose.note/Image).getHorizontalOffset() properties to set location of the image.
