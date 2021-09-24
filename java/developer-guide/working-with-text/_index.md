@@ -8,7 +8,7 @@ url: /java/working-with-text/
 ## **Extract Text from OneNote Document**
 {{% alert color="primary" %}} 
 
-One of the tasks that developers need to perform is extracting text from a OneNote document. [Aspose.Note for Java](http://www.aspose.com/java/onenote-component.aspx) allows developers to extract text from a OneNote document in various ways.
+One of the tasks that developers need to perform is extracting text from a OneNote document. [Aspose.Note for Java](https://products.aspose.com/note/java) allows developers to extract text from a OneNote document in various ways.
 
 {{% /alert %}} 
 
@@ -58,7 +58,7 @@ The following example shows how to replace text on a particular page.
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-text-ReplaceTextonParticularPage-ReplaceTextonParticularPage.java" >}}
 ## **Retrieve Bullet or Number List Properties**
-[Aspose.Note for Java](http://www.aspose.com/Java/onenote-component.aspx) provides comprehensive support for Microsoft OneNote lists. Developers can access a number of list properties, such as font name, numbering format, and many others.
+[Aspose.Note for Java](https://products.aspose.com/note/java) provides comprehensive support for Microsoft OneNote lists. Developers can access a number of list properties, such as font name, numbering format, and many others.
 ### **Retrieving Properties**
 Aspose.Note for .NET offers the [OutlineElement](https://apireference.aspose.com/note/java/com.aspose.note/OutlineElement) class that represents an outline inside a OneNote document. The OutlineElement class exposes the NumberList property that can be called to extract bullet or numbered list properties. The following example shows how to extract bullet or numbered list properties from a OneNote document.
 
