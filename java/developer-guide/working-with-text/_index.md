@@ -78,7 +78,7 @@ Please see a brief description to add and apply bullets on the text in OneNote d
 1. Initialize three objects of [Page](https://apireference.aspose.com/note/java/com.aspose.note/Page) class and set their levels.
 1. Initialize the objects of [Outline](https://apireference.aspose.com/note/java/com.aspose.note/Outline), [OutlineElement](https://apireference.aspose.com/note/java/com.aspose.note/OutlineElement) and [RichText](https://apireference.aspose.com/note/java/com.aspose.note/RichText) classes. 
    Setting the NumberList property of the [OutlineElement](https://apireference.aspose.com/note/java/com.aspose.note/OutlineElement) class adds bullets.
-1. The [ParagraphStyle](https://apireference.aspose.com/note/java/com.Aspose.Note.ParagraphStyle) class defines the text formatting.
+1. The [ParagraphStyle](https://apireference.aspose.com/note/java/com.aspose.note/ParagraphStyle) class defines the text formatting.
 1. Generate the OneNote document by calling the Save method of the [Document](https://apireference.aspose.com/note/java/com.aspose.note/Document) object.
 
 The following example shows how to apply a bullet on the OneNote document.
