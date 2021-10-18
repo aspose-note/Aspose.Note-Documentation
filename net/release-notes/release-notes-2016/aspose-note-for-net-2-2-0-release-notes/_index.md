@@ -12,9 +12,9 @@ Visit the documentation to learn how to [get started with Aspose.Note for .NET](
 
 |**Key** |**Summary** |**Category** |
 | :- | :- | :- |
-|NOTENET-1878 |Support for [OneNote Online](http://www.aspose.com/docs/display/notenet/Product+Overview#ProductOverview-supportedversions) (SharePoint) file format |New Feature |
-|NOTENET-1898 |Support for [alternative text in image](http://www.aspose.com/docs/display/notenet/Insert+an+Image+on+a+OneNote+Document+Page#InsertanImageonaOneNoteDocumentPage-AltText)|Enhancement |
-|NOTENET-803 |Ability to [set resultant image resolution](http://www.aspose.com/docs/display/notenet/Converting+OneNote+to+Image#ConvertingOneNotetoImage-SetImageRes) during export to image formats |Enhancement |
+|NOTENET-1878 |Support for [OneNote Online](/note/net/product-overview/#ProductOverview-supportedversions) (SharePoint) file format |New Feature |
+|NOTENET-1898 |Support for alternative text in image |Enhancement |
+|NOTENET-803 |Ability to [set resultant image resolution](/note/net/working-with-onenote-notebook/#converting-notebook-document-to-image) during export to image formats |Enhancement |
 |NOTENET-533 |Not supported file format error when loading OneNote document |Bug |
 |NOTENET-671 |Incorrect page manifest and page metadata matching |Bug |
 |NOTENET-1778 |Not Supported Exception while loading OneNote files |Bug |
@@ -23,4 +23,4 @@ Visit the documentation to learn how to [get started with Aspose.Note for .NET](
 |NOTENET-1904 |Error on save to OneNote format when PageNode does not have last modified time property |Bug |
 |NOTENET-1907 |Output OneNote page has wrong layout in the evaluation mode |Bug |
 ### **Public API and Backward Incompatible Changes**
-For a detailed list of public API and Backward Incompatible changes, please visit the [Public API Changes](http://www.aspose.com/docs/display/notenet/Aspose.Note+for+.NET+2.2.0+Public+API+Changes) page.
+For a detailed list of public API and Backward Incompatible changes, please visit the [Public API Changes](/note/net/aspose-note-for-net-2-2-0-public-api-changes/) page.

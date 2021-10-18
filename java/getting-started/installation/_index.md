@@ -54,13 +54,13 @@ After performing the above steps, Aspose.Note for Java dependency will finally b
 ## **Technical Support**
 Aspose provides unlimited free technical support for all its products. Support is available to all users, including evaluation.
 
-If you need help with [Aspose.Note for Java](https://products.aspose.com/note/java), [**visit the Aspose.Forums**](https://forum.aspose.com/). Post your question in the Aspose.Note forum and it will be answered within a few hours. The questions are answered directly by the Aspose.Note support team.
+If you need help with [Aspose.Note for Java](https://products.aspose.com/note/java/), [**visit the Aspose.Forums**](https://forum.aspose.com/). Post your question in the Aspose.Note forum and it will be answered within a few hours. The questions are answered directly by the Aspose.Note support team.
 
 When expecting a reply in the forums, please allow for time zone differences.
 
 If you have an issue with Aspose.Note for Java, follow these simple steps to make sure it is resolved in the most efficient way:
 
-- Have a look through the [forum](https://forum.aspose.com/c/note), this [documentation Wiki](/note/java/) and the [API Reference](https://apireference.aspose.com/note/java) for solutions before reporting the issue. Your question might already have an answer.
+- Have a look through the [forum](https://forum.aspose.com/c/note/28), this [documentation Wiki](/note/java/) and the [API Reference](https://apireference.aspose.com/note/java) for solutions before reporting the issue. Your question might already have an answer.
 - When reporting an issue, please include the original document and possibly a fragment of the code that causes the problem. If you need to attach multiple files, zip them into one. It is safe to attach your documents in Aspose.Forums since only you and Aspose developers will have access to the attached files.
 - Please try to report one issue per thread. If you have another issue, report it in a separate thread.
 

@@ -15,11 +15,11 @@ Added option to load Notebook from stream.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|NOTENET-1800|Support for [creation of password protected](http://www.aspose.com/docs/display/notenet/Create+and+Load+a+OneNote+Document#CreateandLoadaOneNoteDocument-CreatingPasswordProtectedOneNoteDocuments) MS OneNote documents.|New Feature|
-|NOTENET-1982|Provide support of password protected documents ([reading](http://www.aspose.com/docs/display/notenet/Working+with+OneNote+NoteBook#WorkingwithOneNoteNoteBook-LoadingPasswordProtectedDocumentsasapartof.onetoc2Notebook) and [writing](http://www.aspose.com/docs/display/notenet/Working+with+OneNote+NoteBook#WorkingwithOneNoteNoteBook-SupportofPasswordProtectedDocumentsWritingasPartof.onetoc2Notebook)) as a part of .onetoc2 notebook.|Enhancement|
-|NOTENET-2151|Notebook: Provide option to [load file from Stream](http://www.aspose.com/docs/display/notenet/Working+with+OneNote+NoteBook#WorkingwithOneNoteNoteBook-LoadingNotebookfromStream).|Enhancement|
-|NOTENET-2158|Provide option to [save Notebook to stream](http://www.aspose.com/docs/display/notenet/Working+with+OneNote+NoteBook#WorkingwithOneNoteNoteBook-SavingNotebooktoStream).|Enhancement|
-|NOTENET-1773|Add [background color](http://www.aspose.com/docs/display/notenet/Working+with+Tables#WorkingwithTables-SettingCellBackGroundColor) property for table cells.|Enhancement|
+|NOTENET-1800|Support for [creation of password protected](/note/net/create-and-load-a-onenote-document/#CreateandLoadaOneNoteDocument-CreatingPasswordProtectedOneNoteDocuments) MS OneNote documents.|New Feature|
+|NOTENET-1982|Provide support of password protected documents ([reading](/note/net/working-with-onenote-notebook/#WorkingwithOneNoteNoteBook-LoadingPasswordProtectedDocumentsasapartof.onetoc2Notebook) and [writing](/note/net/working-with-onenote-notebook/#WorkingwithOneNoteNoteBook-SupportofPasswordProtectedDocumentsWritingasPartof.onetoc2Notebook)) as a part of .onetoc2 notebook.|Enhancement|
+|NOTENET-2151|Notebook: Provide option to [load file from Stream](/note/net/working-with-onenote-notebook/#WorkingwithOneNoteNoteBook-LoadingNotebookfromStream).|Enhancement|
+|NOTENET-2158|Provide option to [save Notebook to stream](/note/net/working-with-onenote-notebook/#WorkingwithOneNoteNoteBook-SavingNotebooktoStream).|Enhancement|
+|NOTENET-1773|Add [background color](/note/net/working-with-tables/#WorkingwithTables-SettingCellBackGroundColor) property for table cells.|Enhancement|
 |NOTENET-2143|Exception while loading OneNote Online file provided by user.|Bug|
 |NOTENET-2145|Failed to open OneNote document.|Bug|
 |NOTENET-2156|Broken pictures while opening documents that were password protected with MS OneNote.|Bug|

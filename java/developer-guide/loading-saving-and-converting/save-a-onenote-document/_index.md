@@ -30,7 +30,7 @@ The code below shows how to set save options before saving a document to PDF.
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-load-SpecifySaveOptions-SpecifySaveOptions.java" >}}
 ## **Working with Locales**
-Aspose.Note provides an opportunity to set locales using [setLocale ](https://apireference.aspose.com/java/note/com.aspose.note/LocaleOptions#setLocale-java.util.Locale-)method under [LocaleOptions](https://apireference.aspose.com/java/note/com.aspose.note/LocaleOptions) class.
+Aspose.Note provides an opportunity to set locales using [setLocale ](https://apireference.aspose.com/note/java/com.aspose.note/LocaleOptions#setLocale-java.util.Locale-)method under [LocaleOptions](https://apireference.aspose.com/note/java/com.aspose.note/LocaleOptions) class.
 
 The code below shows how to set locales options before saving a document.
 

@@ -12,8 +12,8 @@ Visit the documentation to learn how to [Getting Started](/note/net/getting-star
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|NOTENET-1661 |Implement saving [document history](http://www.aspose.com/docs/display/notenet/Working+with+Pages#WorkingwithPages-WorkingwithPageHistory) to *.one format |Enhancement |
-|NOTENET-1865 |Add [revision information](http://www.aspose.com/docs/display/notenet/Working+with+Pages#WorkingwithPages-WorkingwithPageRevisionInformation) to the document's page type |Enhancement |
+|NOTENET-1661 |Implement saving [document history](/note/net/working-with-pages/#working-with-page-history) to *.one format |Enhancement |
+|NOTENET-1865 |Add [revision information](/note/net/working-with-pages/#get-all-revisions-of-a-specific-page) to the document's page type |Enhancement |
 |NOTENET-1934 |MD5 check error for OneNote 2016 format |Bug |
 |NOTENET-1989 |Fix bug related to possible empty NotebookManagementEntityGuid in the PageSeries node |Bug |
 |NOTENET-2051 |Last subpage is in incorrect position after opening and then saving document |Bug |
