@@ -102,7 +102,7 @@ The following example shows how to apply a bullet on the OneNote document.
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-text-CreateNumberedList-CreateNumberedList.java" >}}
 ## **Insert Chinese Number List in the OneNote Document**
-[Aspose.Note for Java API](http://www.aspose.com/Java/onenote-component.aspx) supports inserting the Chinese number list in the OneNote document.
+[Aspose.Note for Java API](https://products.aspose.com/note/java/) supports inserting the Chinese number list in the OneNote document.
 
 Aspose.Note for Java offers the [Document](https://apireference.aspose.com/note/java/com.aspose.note/Document) class that represents a OneNote file. Inserting the Chinese number list to a OneNote document page involves creating an [OutlineElement](https://apireference.aspose.com/note/java/com.aspose.note/OutlineElement), which offers NumberList property to define the bullet.
 

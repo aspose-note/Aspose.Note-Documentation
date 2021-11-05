@@ -17,5 +17,5 @@ The following table indicates the input and output file formats supported by As
 |[JPEG](https://docs.fileformat.com/image/jpeg/)|Save as JPEG Image| |{{< emoticons/tick >}}| |
 |[BMP](https://docs.fileformat.com/image/bmp/)|Save as BMP Image| |{{< emoticons/tick >}}| |
 |[TIFF](https://docs.fileformat.com/image/tiff/)|Save as TIFF Image| |{{< emoticons/tick >}}| |
-|[PDF](https://docs.fileformat.com/view/pdf/)|Save as PDF| |{{< emoticons/tick >}}| |
+|[PDF](https://docs.fileformat.com/pdf/)|Save as PDF| |{{< emoticons/tick >}}| |
 

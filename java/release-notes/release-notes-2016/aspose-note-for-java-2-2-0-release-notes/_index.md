@@ -12,7 +12,7 @@ Visit the documentation to learn how to [Getting Started](/note/java/developer-g
 
 |**Key** |**Summary** |**Category** |
 | :- | :- | :- |
-|[NOTEJAVA-71](/note/java/product-overview-html/)|Add support for OneNote Online file format |New Feature |
+|[NOTEJAVA-71](/note/java/product-overview/)|Add support for OneNote Online file format |New Feature |
 |[NOTEJAVA-75](http://www.aspose.com/docs/display/notejava/Adding+Image+to+a+OneNote+Document+Page+and+Saving+as+PDF#AddingImagetoaOneNoteDocumentPageandSavingasPDF-ImageText)|Add support for alternative text in image |Enhancement |
 |[NOTEJAVA-25](/pages/createpage.action?spaceKey=notejava&title=Setting+Page+Splitting+Algorithm&linkCreation=true&fromPageId=19398719)|Implement different algorithms of page splitting during PDF export |Enhancement |
 |NOTEJAVA-81 |Add custom exceptions for most of exceptional scenarios |Enhancement |

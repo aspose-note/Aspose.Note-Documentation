@@ -25,7 +25,7 @@ If you want to test **Aspose.Note** without evaluation version limitations, requ
 
 {{% /alert %}} 
 ## **Apply License Using File or Stream Object**
-You can download an evaluation version of **Aspose.Note** for Java from [its download page](http://www.aspose.com/downloads/note/java). The evaluation version provides absolutely the same capabilities as the licensed version of the product. Furthermore, evaluation version simply becomes licensed when you purchase a license and add a couple of lines of code to apply the license.
+You can download an evaluation version of **Aspose.Note** for Java from [its download page](https://downloads.aspose.com/note/java). The evaluation version provides absolutely the same capabilities as the licensed version of the product. Furthermore, evaluation version simply becomes licensed when you purchase a license and add a couple of lines of code to apply the license.
 
 Once you are happy with your evaluation of **Aspose.Note**, you can [purchase a license](https://purchase.aspose.com/buy) at the Aspose website. Make yourself familiar with the different subscription types offered. If you have any questions, do not hesitate to contact the Aspose sales team.
 

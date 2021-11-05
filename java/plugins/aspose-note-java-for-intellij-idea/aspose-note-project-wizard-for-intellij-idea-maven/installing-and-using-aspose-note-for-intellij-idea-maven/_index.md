@@ -21,7 +21,7 @@ Installing this plugin will introduce a new project type –
 
 ![todo:image_alt_text](installing-and-using-aspose-note-for-intellij-idea-maven_1.png)
 
-**Aspose.Note Maven Project** – into IntelliJ IDEA, which will enable you to create Aspose.Note Maven based project for using [Aspose.Note for Java API](http://www.aspose.com/java/onenote-component.aspx). 
+**Aspose.Note Maven Project** – into IntelliJ IDEA, which will enable you to create Aspose.Note Maven based project for using [Aspose.Note for Java API](https://products.aspose.com/note/java/). 
 
 ![todo:image_alt_text](http://i.imgur.com/GGoH8GW.png)
 ### **Aspose.Note Examples Wizard**
@@ -34,7 +34,7 @@ An option for creating [Source Code Examples of using Aspose.Note for Java API](
 ![todo:image_alt_text](http://i.imgur.com/hWYuq2o.png)
 ## **Using**
 ### **Using Aspose.Note Maven Project Wizard**
-To create Aspose.Note Maven project for using [Aspose.Note for Java API](http://www.aspose.com/java/onenote-component.aspx) within IntelliJ IDEA, you need to have internet connection.
+To create Aspose.Note Maven project for using [Aspose.Note for Java API](https://products.aspose.com/note/java/) within IntelliJ IDEA, you need to have internet connection.
 
 Then follow the steps below:
 
@@ -50,10 +50,10 @@ Then follow the steps below:
 \6. Provide a **Project Name** and **Location** just like when creating any Java application
 
 \7. Click **Finish**.
-`    `This will retrieve the [Aspose.Note for Java API](http://www.aspose.com/java/onenote-component.aspx) latest maven dependency reference from Aspose Cloud Maven Repository and configure it in pom.xml
+`    `This will retrieve the [Aspose.Note for Java API](https://products.aspose.com/note/java/) latest maven dependency reference from Aspose Cloud Maven Repository and configure it in pom.xml
 `     `If you have selected "Also Download Examples Source Code" checkbox. Downloading of the examples will also begin from the [Aspose.Note for Java API GitHub Repository](https://github.com/aspose-note/Aspose.Note-for-Java/tree/master/Examples)
 
-`     `Congratulations ! {{< emoticons/cross >}} You have successfully created Aspose.Note Maven project for using [Aspose.Note for Java API](http://www.aspose.com/java/onenote-component.aspx).
+`     `Congratulations ! {{< emoticons/cross >}} You have successfully created Aspose.Note Maven project for using [Aspose.Note for Java API](https://products.aspose.com/note/java/).
 
 `      `The created Aspose.Note for Java API Maven project is ready to be modified as per your project’s requirements.
 

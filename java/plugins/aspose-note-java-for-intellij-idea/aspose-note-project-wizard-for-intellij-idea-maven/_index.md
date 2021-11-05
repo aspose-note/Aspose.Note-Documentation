@@ -11,20 +11,20 @@ url: /java/aspose-note-project-wizard-for-intellij-idea-maven/
 
 In a 2010 **Infoworld** report, IntelliJ received the highest test center score out of the four top Java programming tools: Eclipse, IntelliJ IDEA, NetBeans and Oracle JDeveloper.
 ### **Aspose.Note for Java**
-[Aspose.Note](http://www.aspose.com/java/onenote-component.aspx) is a feature-rich Java class library that enables java applications to programmatically interact with OneNote documents without requiring Microsoft Office OneNote having installed on the server.
+[Aspose.Note](https://products.aspose.com/note/java/) is a feature-rich Java class library that enables java applications to programmatically interact with OneNote documents without requiring Microsoft Office OneNote having installed on the server.
 
-The [Java API of Aspose.Note](http://www.aspose.com/java/onenote-component.aspx) empowers developers to Create, Read, Export and Manipulate the contents of the Microsoft OneNote file format by working with attachments, text, hyperlinks, tables, tags and text styles.
+The [Java API of Aspose.Note](https://products.aspose.com/note/java/) empowers developers to Create, Read, Export and Manipulate the contents of the Microsoft OneNote file format by working with attachments, text, hyperlinks, tables, tags and text styles.
 ### **Aspose.Note Java (Maven) for IntelliJ IDEA**
-- Aspose.Note Java (Maven) for IntelliJ IDEA is an **IntelliJ IDEA Plugin** which lets you create maven projects (i,e created project contains Aspose.Note for Java API maven dependency) and download source code examples of the API for using [Aspose.Note for Java API](http://www.aspose.com/java/onenote-component.aspx).
-- This plugin helps you to work with [Aspose.Note for Java API](http://www.aspose.com/java/onenote-component.aspx) inside your favorite IntelliJ IDEA.
+- Aspose.Note Java (Maven) for IntelliJ IDEA is an **IntelliJ IDEA Plugin** which lets you create maven projects (i,e created project contains Aspose.Note for Java API maven dependency) and download source code examples of the API for using [Aspose.Note for Java API](https://products.aspose.com/note/java/).
+- This plugin helps you to work with [Aspose.Note for Java API](https://products.aspose.com/note/java/) inside your favorite IntelliJ IDEA.
 ### **Wizards**
 -----
 `      `The plugin contains two wizards
 `       `**Wizard 1:** Aspose.Note Maven Project
 
-- Plugin's **Aspose Maven Project Wizard** lets developers to create [Aspose.Note for Java API](http://www.aspose.com/java/onenote-component.aspx) Maven project.
-- The reference of [Aspose.Note for Java API](http://www.aspose.com/java/onenote-component.aspx) maven dependency is automatically fetched from [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0) and gets added in the pom.xml.
-- The created project will always contain most recent available version Maven Dependency for [Aspose.Note for Java API](http://www.aspose.com/java/onenote-component.aspx).
+- Plugin's **Aspose Maven Project Wizard** lets developers to create [Aspose.Note for Java API](https://products.aspose.com/note/java/) Maven project.
+- The reference of [Aspose.Note for Java API](https://products.aspose.com/note/java/) maven dependency is automatically fetched from [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0) and gets added in the pom.xml.
+- The created project will always contain most recent available version Maven Dependency for [Aspose.Note for Java API](https://products.aspose.com/note/java/).
 - The wizard steps also presents with the option for downloading [Source Code Examples for using Aspose.Note for Java API](https://github.com/aspose-note/Aspose.Note-for-Java/tree/master/Examples)
 
 `       `**Wizard 2:** Aspose.Note Examples
