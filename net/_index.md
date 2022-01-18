@@ -6,7 +6,7 @@ url: /net/
 is_root: true
 ---
 
-### **Aspose.Note for .NET**
+## **Aspose.Note for .NET**
 {{% alert color="primary" %}} 
 
 ![todo:image_alt_text](home_1.png)

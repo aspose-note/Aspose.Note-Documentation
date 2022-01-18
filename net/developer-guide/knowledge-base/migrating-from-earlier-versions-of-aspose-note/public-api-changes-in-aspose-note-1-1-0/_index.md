@@ -10,7 +10,7 @@ url: /net/public-api-changes-in-aspose-note-1-1-0/
 This document describes changes to the Aspose.Note API from version 1.0 to 1.1, that may be of interest to module/application developers. It includes not only new and updated public methods, but also a description of any changes in the behavior behind the scenes in Aspose.Note.
 
 {{% /alert %}} 
-### **The INotebookVisitor Interface is now a DocumentVisitor Abstract Class**
+## **The INotebookVisitor Interface is now a DocumentVisitor Abstract Class**
 Use DocumentVisitor class parsing OneNote documents in order to extract separate document elements such as Sections, Pages, Outlines, Group Outlines, images, and others.
 ### **The FirstChild, LastChild, NextSibling, and PreviousSibling methods are implemented**
 Starting with this version of Aspose.Note, it is now possible to access:

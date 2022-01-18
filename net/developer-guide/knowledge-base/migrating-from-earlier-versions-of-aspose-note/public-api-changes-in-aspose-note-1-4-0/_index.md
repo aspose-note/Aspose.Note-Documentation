@@ -10,7 +10,7 @@ url: /net/public-api-changes-in-aspose-note-1-4-0/
 This document describes changes to the Aspose.Note API from version 1.3 to 1.4, that may be of interest to module/application developers. It includes not only new and updated public methods, but also a description of any changes in the behavior behind the scenes in Aspose.Note.
 
 {{% /alert %}} 
-### **New Approach to Retrieve OneNote Document Nodes**
+## **New Approach to Retrieve OneNote Document Nodes**
 A new method for getting nodes by type was developed to provide a more flexible approach and avoid type casting.
 Old sample code (.NET, C#):
 

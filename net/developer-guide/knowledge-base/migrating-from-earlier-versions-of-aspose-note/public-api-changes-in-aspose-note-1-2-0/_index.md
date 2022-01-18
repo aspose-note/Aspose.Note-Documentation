@@ -10,7 +10,7 @@ url: /net/public-api-changes-in-aspose-note-1-2-0/
 This document describes changes to the Aspose.Note API from version 1.1 to 1.2, that may be of interest to module/application developers. It includes not only new and updated public methods, but also a description of any changes in the behavior behind the scenes in Aspose.Note.
 
 {{% /alert %}} 
-### **DocumentVisitor Abstract Class Now More Flexible**
+## **DocumentVisitor Abstract Class Now More Flexible**
 A few more common OneNote document elements are supported. The DocumentVisitor class allows you to parse OneNote document elements such as NoteTag, TagIcon, Table, AttachedFile.DocumentVisitor class changes are as follows:
 
 - The DocumentVisitor.VisitDocument method has been renamed to DocumentVisitor.VisitDocumentStart.

@@ -10,7 +10,7 @@ url: /net/public-api-changes-in-aspose-note-1-6-0/
 This document describes changes to the Aspose.Note API from version 1.5 to 1.6, that may be of interest to module/application developers. It includes not only new and updated public methods, but also a description of any changes in the behavior behind the scenes in Aspose.Note.
 
 {{% /alert %}} 
-### **Added the new properties to AttachedFile class**
+## **Added the new properties to AttachedFile class**
 There are two new properties in AttachedFile type: IconExtension and Extension. They can be used for getting an extension of the icon and attached file respectively.
 ### **Added the Tags property to various classes**
 The Tags property has been added in various classes. Tags property gives an ability to add tags to attach files, tables or images, etc.

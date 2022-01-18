@@ -5,7 +5,7 @@ weight: 30
 url: /net/convert-onenote-to-html/basic-samples/
 ---
 
-### **Save OneNote to Html using default options**
+## **Save OneNote to Html using default options**
 
 The following code example demonstrates how to convert OneNote to Html using the default options.
 With default options all pages of the document are saved, css and images are saved to separate files and fonts are not exported.

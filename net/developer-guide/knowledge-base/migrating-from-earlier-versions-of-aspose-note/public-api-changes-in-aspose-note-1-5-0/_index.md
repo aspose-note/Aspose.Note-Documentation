@@ -10,7 +10,7 @@ url: /net/public-api-changes-in-aspose-note-1-5-0/
 This document describes changes to the Aspose.Note API from version 1.4 to 1.5, that may be of interest to module/application developers. It includes not only new and updated public methods, but also a description of any changes in the behavior behind the scenes in Aspose.Note.
 
 {{% /alert %}} 
-### **Added new interfaces for child nodes**
+## **Added new interfaces for child nodes**
 The new interfaces for child nodes are added, e.g. INode, ICompositeNode, IOutlineElementChildNode, IOutlineChildNode and IPageChildNode etc. Almost all composite nodes now have a more strict type of child nodes unlike the base type Node previously.
 ### **Section and PageSeries were removed**
 All properties which correspond to the Section node were moved to the Document (CreationTime,Color,DisplayName,Guid). Pages from the PageSeries node moved to the document's children and are accessible through the IEnumerable interface implemented by the Document type.

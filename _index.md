@@ -5,7 +5,7 @@ weight: 10
 url: /
 ---
 
-### **Aspose.Note for .NET**
+## **Aspose.Note for .NET**
 {{% alert color="primary" %}} 
 
 ![Aspose.Note for .NET Product Logo](home_1.png)

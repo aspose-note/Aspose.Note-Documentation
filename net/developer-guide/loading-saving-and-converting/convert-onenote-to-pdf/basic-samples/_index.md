@@ -7,7 +7,7 @@ url: /net/convert-onenote-to-pdf/basic-samples/
 
 PDF documents are widely used as a standard format of exchanging documents between organizations, government sectors and individuals. It's a popular format so developers are often asked to convert Microsoft OneNote documents to PDF documents. For this purpose, Aspose.Note for .NET supports converting OneNote to PDF documents without using any other component.
 
-### **Save OneNote to PDF using default options**
+## **Save OneNote to PDF using default options**
 
 The following code example demonstrates how to convert OneNote to PDF using the default options.
 With default options all pages of the document are saved and present images are compressed by auto selected algorithm.
