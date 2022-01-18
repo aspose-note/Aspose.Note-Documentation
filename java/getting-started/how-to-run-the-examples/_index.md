@@ -5,7 +5,7 @@ weight: 60
 url: /java/how-to-run-the-examples/
 ---
 
-### **Download from GitHub**
+## **Download from GitHub**
 All examples of Aspose.Note for Java are hosted on [Github](https://github.com/aspose-note/Aspose.Note-for-Java). You can either clone the repository using your favourite Github client or download the ZIP file from [here](https://github.com/aspose-note/Aspose.Note-for-Java/archive/master.zip).
 
 Extract the contents of the ZIP file to any folder on your computer. All the examples are located in the **Examples** folder.

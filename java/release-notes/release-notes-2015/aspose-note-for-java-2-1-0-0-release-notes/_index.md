@@ -15,11 +15,11 @@ The following list of changes is available in this version of Aspose.Note for Ja
 | :- | :- | :- |
 |NOTEJAVA-9|Add support for saving to MS OneNote format;|New features|
 |NOTEJAVA-23|Give user an ability to set result image resolution during export to image formats.|New features|
-### **Public API and Backwards Incompatible Changes**
+## **Public API and Backwards Incompatible Changes**
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Note for Java.
-### **Added support for saving Aspose.Note document to MS OneNote format**
+## **Added support for saving Aspose.Note document to MS OneNote format**
 Use Document.Save method with OneSaveOptions or SaveFormat.One parameter to save Aspose.Note document to Microsoft OneNote format.
-### **NoteTagCore.setCompletedTime method's signature changed.**
+## **NoteTagCore.setCompletedTime method's signature changed.**
 Starting from Aspose.Note Java v2.1.0 NoteTagCore.setCompletedTime method accepts parameter of java.util.Date type.
-### **ImageSaveOptions.setResolution method added**
+## **ImageSaveOptions.setResolution method added**
 Use ImageSaveOptions.setResolution method to specify output image resolution. 

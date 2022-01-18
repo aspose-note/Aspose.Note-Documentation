@@ -23,7 +23,7 @@ Visit the documentation to learn how to [Getting Started](/note/java/getting-st
 |NOTEJAVA-141 |Opened OneNote Online document raises NullReferenceException on save |Bug |
 |NOTENET-2053 |ArgumentOutOfRangeException while reloading saved document |Bug |
 |NOTEJAVA-105 |Text overlay while exporting to image formats|Bug |
-### **Public API and Backwards Incompatible Changes**
+## **Public API and Backwards Incompatible Changes**
 
 |**The following public enumerations were added:** |**Description** |
 | :- | :- |

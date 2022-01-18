@@ -6,7 +6,7 @@ url: /java/
 is_root: true
 ---
 
-### **Aspose.Note for Java**
+## **Aspose.Note for Java**
 {{% alert color="primary" %}} 
 
 ![todo:image_alt_text](home_1.png)
