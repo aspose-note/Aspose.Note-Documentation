@@ -1,5 +1,6 @@
 ---
 title: Supported File Formats
+description: Aspose.Note for Java supports ONE, ONETOC2, PNG, GIF, JPEG, BMP, TIFF, PDF.
 type: docs
 weight: 40
 url: /java/supported-file-formats/

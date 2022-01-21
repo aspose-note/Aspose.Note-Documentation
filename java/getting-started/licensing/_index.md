@@ -1,5 +1,6 @@
 ---
 title: Licensing
+description: A free evaluation version of Aspose.Note for Java (a Java API to interact with Microsoft Office OneNote programmatically without the software being installed on the server) can be downloaded from the downloads section of Aspose's web site. 
 type: docs
 weight: 30
 url: /java/licensing/

@@ -1,5 +1,6 @@
 ---
 title: Aspose.Note Product Family
+description: Aspose.Note offers APIs in .NET and Java to interact with Microsoft Office OneNote programmatically without the software being installed on the server. The Aspose.Note APIs lets developers read, convert, create, edit and manipulate the content of the Microsoft OneNote file format.
 type: docs
 weight: 10
 url: /

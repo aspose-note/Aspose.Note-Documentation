@@ -1,5 +1,6 @@
 ---
 title: Product Overview
+description: Aspose.Note for .NET is a class library that enables .NET applications to interact with Microsoft Office OneNote programmatically without the software being installed on the server.
 type: docs
 weight: 10
 url: /net/product-overview/

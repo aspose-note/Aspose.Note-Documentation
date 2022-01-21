@@ -1,5 +1,6 @@
 ---
 title: Licensing
+description: A free evaluation version of Aspose.Note for .NET (a .NET API to interact with Microsoft Office OneNote programmatically without the software being installed on the server) can be downloaded from the downloads section of Aspose's web site. 
 type: docs
 weight: 50
 url: /net/licensing/

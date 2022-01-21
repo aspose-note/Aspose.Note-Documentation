@@ -1,5 +1,6 @@
 ---
 title: Aspose.Note for .NET
+description: Aspose.Note for .NET is a class library that enables .NET applications to interact with Microsoft Office OneNote programmatically without the software being installed on the server. The Aspose.Note API lets developers read, convert, create, edit and manipulate the content of the Microsoft OneNote file format.
 type: docs
 weight: 10
 url: /net/

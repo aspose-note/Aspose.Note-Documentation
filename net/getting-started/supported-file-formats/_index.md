@@ -1,5 +1,6 @@
 ---
 title: Supported File Formats
+description: Aspose.Note for .NET supports ONE, ONETOC2, PNG, GIF, JPEG, BMP, TIFF, PDF.
 type: docs
 weight: 20
 url: /net/supported-file-formats/

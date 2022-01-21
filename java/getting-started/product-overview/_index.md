@@ -1,5 +1,6 @@
 ---
 title: Product Overview
+description: Aspose.Note for Java is a class library that enables java applications to interact with Microsoft Office OneNote programmatically without the software being installed on the server.
 type: docs
 weight: 10
 url: /java/product-overview/
@@ -8,7 +9,7 @@ url: /java/product-overview/
 {{% alert color="primary" %}} 
 
 ![todo:image_alt_text](product-overview_1.png)
-### **Welcome to the Aspose.Note for Java documentation!**
+## **Welcome to the Aspose.Note for Java documentation!**
 Aspose.Note for Java is a class library that enables java applications to interact with Microsoft Office OneNote programmatically without the software being installed on the server. The Aspose.Note API lets developers read, convert, create, edit and manipulate the content of the Microsoft OneNote file format.
 
 With Aspose.Note for Java, it is possible to program with Microsoft OneNote files without Microsoft Office Automation. The API is easy to use and saves time and money compared to developing similar solutions from scratch.
