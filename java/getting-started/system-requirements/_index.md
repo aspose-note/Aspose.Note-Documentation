@@ -3,6 +3,7 @@ title: System Requirements
 type: docs
 weight: 50
 url: /java/system-requirements/
+description: System Requirements of OneNote Java library
 ---
 
 ## **Overview**
