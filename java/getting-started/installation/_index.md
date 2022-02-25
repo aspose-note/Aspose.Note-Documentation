@@ -3,6 +3,7 @@ title: Installation
 type: docs
 weight: 20
 url: /java/installation/
+description: Learn how to install OneNote Java Library from Maven Repository
 ---
 
 ## **Installing Aspose.Note for Java from Maven Repository**
