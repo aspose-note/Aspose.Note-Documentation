@@ -3,6 +3,7 @@ title: Introduction
 type: docs
 weight: 10
 url: /java/introduction/
+description: Hello World example to create OneNote document from scratch using Java library or API.  You can add OneNote page, outline, outline element and text dynamically using Java.
 ---
 
 ## **Create a Hello World OneNote Document using the API**
