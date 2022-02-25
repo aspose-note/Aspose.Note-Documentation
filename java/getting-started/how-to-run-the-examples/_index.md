@@ -3,6 +3,7 @@ title: How to Run the Examples
 type: docs
 weight: 60
 url: /java/how-to-run-the-examples/
+description: Learn how to run OneNote Java library examples on GitHub in IntelliJ IDEA, Eclipse, NetBeans.
 ---
 
 ## **Download from GitHub**
