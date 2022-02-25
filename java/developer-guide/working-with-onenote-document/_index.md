@@ -3,6 +3,7 @@ title: Working with OneNote Document
 type: docs
 weight: 20
 url: /java/working-with-onenote-document/
+description: OneNote Java API can be used to parse Microsoft Office OneNote documents to extract separate document elements such as pages, images, rich text, outline, title, table, attached files, and others. Another possible task is to find all text and get a total count of nodes etc.
 ---
 
 ## **Extract OneNote Content using DocumentVisitor**
