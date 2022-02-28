@@ -1,6 +1,7 @@
 ---
 linktitle: Load a OneNote Document
 title: Load OneNote Document or File in Java API
+keywords: onenote java, onenote load a file, onenote java library, onenote api java
 type: docs
 weight: 10
 url: /java/load-a-onenote-document/
@@ -8,7 +9,7 @@ url: /java/load-a-onenote-document/
 
 
 ## **Loading OneNote Documents**
-The Document class exposed by the API can be used to load Microsoft OneNote .One file format files. The following sample code shows the usage of this class for loading a Microsoft OneNote document.
+The Document class exposed by the OneNote Java API or library can be used to load Microsoft OneNote .One file format files. The following sample code in Java programming language shows the usage of this class for loading a Microsoft OneNote document.
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-load-LoadOneNote-LoadOneNote.java" >}}
 ## **Increase Performance for Consequent Export Operations**
