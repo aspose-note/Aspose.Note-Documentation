@@ -1,5 +1,6 @@
 ---
-title: Load a OneNote Document
+linktitle: Load a OneNote Document
+title: Load OneNote Document or File in Java API
 type: docs
 weight: 10
 url: /java/load-a-onenote-document/
