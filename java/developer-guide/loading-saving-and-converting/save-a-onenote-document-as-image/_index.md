@@ -1,8 +1,10 @@
 ---
-title: Save a OneNote Document as image
+title: Convert or Save OneNote Document to Image Formats BMP, JPG or Jpeg, TIFF in Java API
+linktitle: Save a OneNote Document as image
 type: docs
 weight: 20
 url: /java/save-a-onenote-document-as-image/
+keywords: Convert, Save, OneNote, BMP, JPG, JPEG, Tiff, Java
 ---
 
 ## **Saving a Document to image Format**
