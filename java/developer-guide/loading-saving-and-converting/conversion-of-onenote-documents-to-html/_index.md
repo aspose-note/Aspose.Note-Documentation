@@ -1,5 +1,6 @@
 ---
-title: Conversion of OneNote Documents to HTML
+title: Convert OneNote to HTML in Java
+linktitle: Conversion of OneNote Documents to HTML
 type: docs
 weight: 40
 url: /java/conversion-of-onenote-documents-to-html/
