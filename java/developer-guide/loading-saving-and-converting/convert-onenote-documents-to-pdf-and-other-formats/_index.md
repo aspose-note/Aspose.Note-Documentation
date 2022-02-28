@@ -1,8 +1,10 @@
 ---
-title: Convert OneNote documents to PDF and other formats
+title: Convert or Save OneNote documents to PDF, Image and other formats in Java
+linktitle: Convert OneNote documents to PDF and other formats
 type: docs
 weight: 30
 url: /java/convert-onenote-documents-to-pdf-and-other-formats/
+keywords: Convert, Save, OneNote, Java, PDF, Image
 ---
 
 ## **Converting OneNote Document to PDF**
