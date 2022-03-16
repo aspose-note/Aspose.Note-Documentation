@@ -3,6 +3,7 @@ title: Convert OneNote to PDF with replacing of missing fonts
 type: docs
 weight: 30
 url: /net/convert-onenote-to-pdf/replacing-of-missing-fonts/
+description: Convert OneNote to PDF using C# API and learn to set default font or replace missing fonts or set fonts from stream. 
 ---
 
 PDF documents are widely used as a standard format of exchanging documents between organizations, government sectors and individuals. It's a popular format so developers are often asked to convert Microsoft OneNote documents to PDF documents. For this purpose, Aspose.Note for .NET supports converting OneNote to PDF documents without using any other component.
