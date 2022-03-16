@@ -3,6 +3,8 @@ title: Convert OneNote to Word
 type: docs
 weight: 30
 url: /net/convert-onenote-to-word/
+keywords: convert onenote to word, export onenote to word
+description: Convert or export OneNote to Word document using C# or .NET API.
 ---
 
 Time to time it turns out to be useful to share just a piece of gathered notes without providing access to full notes or add notes as a part of another document.
