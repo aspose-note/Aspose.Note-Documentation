@@ -1,8 +1,11 @@
 ---
-title: Convert OneNote to PDF
+title: Convert OneNote to PDF using C#
+linktitle: Convert OneNote to PDF
 type: docs
 weight: 30
 url: /net/convert-onenote-to-pdf/
+keywords: convert onenote to pdf, export onenote to pdf
+description: Convert or export OneNote to PDF document using C# or .NET API.
 aliases:
   - /net/convert-onenote-documents-to-pdf-and-other-formats/
   - /net/convert-onenote-documents-to-pdf-format/
