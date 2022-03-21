@@ -1,8 +1,10 @@
 ---
-title: Working with Pages
+title: Working with Pages of OneNote Document using C#
+linktitle: Working with Pages
 type: docs
 weight: 60
 url: /net/working-with-pages/
+description: OneNote C# Library or API can be used to retrieve number of pages from a OneNote document, get all revisions and modify page history and work with conflict pages.
 ---
 
 ## **Get Number of Pages from the OneNote Document**
