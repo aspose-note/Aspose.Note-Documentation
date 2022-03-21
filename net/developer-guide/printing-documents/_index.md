@@ -1,8 +1,11 @@
 ---
-title: Printing Documents
+title: Print OneNote Documents using C# API
+linktitle: Printing Documents
 type: docs
 weight: 40
 url: /net/printing-documents/
+keywords: print onenote c#
+description: OneNote C# API lets you print OneNote documents to the printer. The Print method exposed by Document class lets you print the loaded document to the printer.
 ---
 
 ## **Printing a Document**
