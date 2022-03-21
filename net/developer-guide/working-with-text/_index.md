@@ -1,8 +1,11 @@
 ---
-title: Working with Text
+title: Work, Extract or Replace Text in OneNote Document using C# API
+linktitle: Working with Text
 type: docs
 weight: 80
 url: /net/working-with-text/
+keywords: C# OneNote API, C# OneNote Library
+description: C# OneNote API or Library can be used to extract text from OneNote Document or from a specific page, replace or retrieve text in all pages, apply bullets or number list on text and set page title in Microsoft OneNote style.
 ---
 
 ## **Extract Text from OneNote Document**
