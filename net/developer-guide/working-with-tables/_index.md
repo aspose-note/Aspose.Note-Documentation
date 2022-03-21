@@ -1,8 +1,10 @@
 ---
-title: Working with Tables
+title: Work, Extract, Insert Tables in OneNote Document using C#
+linktitle: Working with Tables
 type: docs
 weight: 90
 url: /net/working-with-tables/
+description: OneNote C# API can be used to extract plain text from table or cell from row, insert table in OneNote Document and set cell background color.
 ---
 
 ## **Extracting Plain Text from the Table of OneNote Document**
