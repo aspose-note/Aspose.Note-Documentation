@@ -1,8 +1,10 @@
 ---
-title: Working with Images
+title: Work or Extract Images from OneNote Document using C#
+linktitle: Working with Images
 type: docs
 weight: 70
 url: /net/working-with-images/
+description: With C# OneNote API or Library, you can extract images from OneNote document, get information of each image, insert an image in existing OneNote document and link an image to hyperlink.
 ---
 
 ## **Extract Images from a OneNote Document**
