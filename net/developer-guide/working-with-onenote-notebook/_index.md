@@ -1,8 +1,11 @@
 ---
-title: Working with OneNote NoteBook
+title: Create or Work with OneNote NoteBook in C# API
+linktitle: Working with OneNote NoteBook
 type: docs
 weight: 50
 url: /net/working-with-onenote-notebook/
+keywords: create onenote notebook c#
+description: OneNote NoteBook C# API lets you create or save NoteBook to Stream, load NoteBook from file, export NoteBook to Image with Options and export NoteBook to PDF
 ---
 
 ## **Creating and Saving a Notebook**
