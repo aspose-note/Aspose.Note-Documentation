@@ -1,6 +1,6 @@
 ---
-title: Create or Work with OneNote NoteBook in C# API
-linktitle: Working with OneNote NoteBook
+title: Create or Work with OneNote Notebook in C# API
+linktitle: Working with OneNote Notebook
 type: docs
 weight: 50
 url: /net/working-with-onenote-notebook/
