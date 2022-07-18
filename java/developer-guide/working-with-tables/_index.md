@@ -6,7 +6,7 @@ url: /java/working-with-tables/
 ---
 
 ## **Extracting Plain Text from the Table of OneNote Document**
-Aspose.Note for JAVA offers the [Document](https://apireference.aspose.com/note/java/com.aspose.note/document) class that represents a OneNote file. The Document class exposes the getChildNodes method that can be called to extract table nodes from a OneNote document.
+Aspose.Note for JAVA offers the [Document](https://reference.aspose.com/note/java/com.aspose.note/document) class that represents a OneNote file. The Document class exposes the getChildNodes method that can be called to extract table nodes from a OneNote document.
 
 This article shows how to:
 

@@ -15,7 +15,7 @@ The Document class exposed by the OneNote Java API or library can be used to loa
 ## **Increase Performance for Consequent Export Operations**
 Aspose.Note API allows increasing performance for consequent export operations. Users may involve in multiple conversions to several supported formats. In such scenarios, the performance is the highly affecting factor.
 
-Aspose.Note for Java offers the [Document](https://apireference.aspose.com/note/java/com.aspose.note/Document) class that represents a OneNote file. The Document class exposes the AutomaticLayoutChangesDetectionEnabled property and DetectLayoutChanges method, their combined use enable users to disable automatic detection of layout changes and handle them manually:
+Aspose.Note for Java offers the [Document](https://reference.aspose.com/note/java/com.aspose.note/Document) class that represents a OneNote file. The Document class exposes the AutomaticLayoutChangesDetectionEnabled property and DetectLayoutChanges method, their combined use enable users to disable automatic detection of layout changes and handle them manually:
 
 {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-load-OptimizePerformanceForConsequentExportOperations-ConsequentExportOperations.java" >}}
 ## **Working with Password Protected OneNote Documents**

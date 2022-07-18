@@ -50,7 +50,7 @@ Using latest version of Aspose.Note you can:
 4. Control how content is splitted to pdf pages.
 
 
-Aspose.Note for .NET offers the [Document](https://apireference.aspose.com/note/net/aspose.note/document) class that represents a OneNote document. The Document class exposes the Save method that can be called to convert a OneNote document into a PDF document. The [PdfSaveOptions](https://apireference.aspose.com/note/net/aspose.note.saving/pdfsaveoptions) class allows to specify additional settings for saving operation.
+Aspose.Note for .NET offers the [Document](https://reference.aspose.com/note/net/aspose.note/document) class that represents a OneNote document. The Document class exposes the Save method that can be called to convert a OneNote document into a PDF document. The [PdfSaveOptions](https://reference.aspose.com/note/net/aspose.note.saving/pdfsaveoptions) class allows to specify additional settings for saving operation.
 
 
 ## **Convert OneNote to PDF**

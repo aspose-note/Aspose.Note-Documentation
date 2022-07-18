@@ -22,6 +22,6 @@ Use the NumberFormat enumeration to distinguish each number. For now, it has a s
 ### **NumberList Class Added**
 The NumberList class helps accessing and manipulating bullet and numbered lists. Developers can also access list properties, such as font name, numbering format, and many others. Please see a complete example topic: [Retrieve Bullet or Number List Properties](https://docs.aspose.com/note/net/working-with-text/#retrieve-bullet-or-number-list-properties). 
 
-The [OutlineElement class](https://apireference.aspose.com/note/net/aspose.note/outlineelement) exposes the [NumberList property](https://apireference.aspose.com/note/net/aspose.note/numberlist).
+The [OutlineElement class](https://reference.aspose.com/note/net/aspose.note/outlineelement) exposes the [NumberList property](https://reference.aspose.com/note/net/aspose.note/numberlist).
 ### **The SpaceBefore, SpaceAfter and LineSpacing Properties Implemented**
-The SpaceBefore, SpaceAfter, and LineSpacing properties are added to the [RichText class](https://apireference.aspose.com/note/net/aspose.note/richtext). It allows you to get or set the minimum amount of space before the text line, get or set the minimum amount of space after the text line, and get or set line spacing respectively.
+The SpaceBefore, SpaceAfter, and LineSpacing properties are added to the [RichText class](https://reference.aspose.com/note/net/aspose.note/richtext). It allows you to get or set the minimum amount of space before the text line, get or set the minimum amount of space after the text line, and get or set line spacing respectively.

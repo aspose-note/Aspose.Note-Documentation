@@ -6,7 +6,7 @@ url: /net/convert-onenote-to-html/using-user-callbacks/
 ---
 
 Time to time it is useful to have full control over storing all Html generated content.
-For this reason Aspose.Note have an option to provide user-defined callbacks for saving of pages([PageSavingArgs](https://apireference.aspose.com/note/net/aspose.note.saving.html/pagesavingargs)), style sheets([CssSavingArgs](https://apireference.aspose.com/note/net/aspose.note.saving.html/csssavingargs)), images([ImageSavingArgs](https://apireference.aspose.com/note/net/aspose.note.saving.html/imagesavingargs)) and fonts([FontSavingArgs](https://apireference.aspose.com/note/net/aspose.note.saving.html/fontsavingargs)).
+For this reason Aspose.Note have an option to provide user-defined callbacks for saving of pages([PageSavingArgs](https://reference.aspose.com/note/net/aspose.note.saving.html/pagesavingargs)), style sheets([CssSavingArgs](https://reference.aspose.com/note/net/aspose.note.saving.html/csssavingargs)), images([ImageSavingArgs](https://reference.aspose.com/note/net/aspose.note.saving.html/imagesavingargs)) and fonts([FontSavingArgs](https://reference.aspose.com/note/net/aspose.note.saving.html/fontsavingargs)).
 
 ## **Save OneNote to Html using user saving callbacks**
 

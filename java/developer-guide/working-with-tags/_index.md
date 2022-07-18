@@ -6,7 +6,7 @@ url: /java/working-with-tags/
 ---
 
 ## **Get Note Tag Details from OneNote Document**
-The NoteTag class provides all the properties related to a note tag in a Microsoft OneNote document. All the OneNote file's note tags are contained by RichText nodes of the [Document](https://apireference.aspose.com/note/java/com.aspose.note/Document) object.
+The NoteTag class provides all the properties related to a note tag in a Microsoft OneNote document. All the OneNote file's note tags are contained by RichText nodes of the [Document](https://reference.aspose.com/note/java/com.aspose.note/Document) object.
 
 **The OneNote file displaying a note tag.** 
 
