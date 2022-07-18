@@ -12,7 +12,7 @@ All images are stored inside image nodes in a OneNote document.
 ### **Extract Images**
 To extract all images or from a OneNote document, follow these steps:
 
-1. Use the [Document](https://apireference.aspose.com/note/net/aspose.note/document).GetChildNodes method to select all Image nodes.
+1. Use the [Document](https://reference.aspose.com/note/net/aspose.note/document).GetChildNodes method to select all Image nodes.
 1. Iterate through the resulting Image node collections.
 1. Extract image bytes array using the Image.Bytes property.
 1. Save image bytes to a file.
@@ -21,7 +21,7 @@ The code example given below demonstrates how to extract images from a OneNote d
 
 {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-Images-ExtractImages-ExtractImages.cs" >}}
 ## **Get Information of Each Image from the OneNote Document**
-The [Image](https://apireference.aspose.com/note/net/aspose.note/image) class provides all the image properties for images in OneNote documents. All the images of the OneNote file are contained by image nodes in the [Document](https://apireference.aspose.com/note/net/aspose.note/document) object.
+The [Image](https://reference.aspose.com/note/net/aspose.note/image) class provides all the image properties for images in OneNote documents. All the images of the OneNote file are contained by image nodes in the [Document](https://reference.aspose.com/note/net/aspose.note/document) object.
 ### **Get Information**
 The code example given below demonstrates how to get information about each image from a OneNote document.
 
@@ -33,11 +33,11 @@ An image can be inserted in the following ways.
 ### **Insert an Image in an Existing OneNote Document**
 To insert an image on a OneNote document, follow these steps:
 
-1. Use the [Document](https://apireference.aspose.com/note/net/aspose.note/document).FirstChild property to get the first page.
-1. Use the [Image](https://apireference.aspose.com/note/net/aspose.note/image) class constructor to load the image.
-1. Use the [Image](https://apireference.aspose.com/note/net/aspose.note/image).Width and [Image](https://apireference.aspose.com/note/net/aspose.note/image).Height properties to adjust the size of the image.
-1. Use the [Image](https://apireference.aspose.com/note/net/aspose.note/image).VerticalOffset and [Image](https://apireference.aspose.com/note/net/aspose.note/image).HorizontalOffset properties to set the location of the image.
-1. Use the [Page](https://apireference.aspose.com/note/net/aspose.note/page).AppendChild property to insert the image.
+1. Use the [Document](https://reference.aspose.com/note/net/aspose.note/document).FirstChild property to get the first page.
+1. Use the [Image](https://reference.aspose.com/note/net/aspose.note/image) class constructor to load the image.
+1. Use the [Image](https://reference.aspose.com/note/net/aspose.note/image).Width and [Image](https://reference.aspose.com/note/net/aspose.note/image).Height properties to adjust the size of the image.
+1. Use the [Image](https://reference.aspose.com/note/net/aspose.note/image).VerticalOffset and [Image](https://reference.aspose.com/note/net/aspose.note/image).HorizontalOffset properties to set the location of the image.
+1. Use the [Page](https://reference.aspose.com/note/net/aspose.note/page).AppendChild property to insert the image.
 1. Save a OneNote document.
 
 The code example given below demonstrates how to insert an image on a OneNote document and save them as files.

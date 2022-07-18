@@ -14,7 +14,7 @@ All files attached to a Microsoft OneNote document can be retrieved. These files
 
 To extract all attached files from a OneNote document, follow these steps:
 
-1. Use the [Document](https://apireference.aspose.com/note/java/com.aspose.note/Document).getChildNodes method to select all AttachedFile nodes.
+1. Use the [Document](https://reference.aspose.com/note/java/com.aspose.note/Document).getChildNodes method to select all AttachedFile nodes.
 1. Iterate through the resulting node collections.
 1. Extract image bytes array using the AttachedFile.Bytes property.
 1. Save the attached file bytes to the local space.

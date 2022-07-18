@@ -30,7 +30,7 @@ Using latest version of Aspose.Note you can:
 3. Control how resources like fonts/images/css are saved.
 
 
-Aspose.Note for .NET offers the [Document](https://apireference.aspose.com/note/net/aspose.note/document) class that represents a OneNote document. The Document class exposes the Save method that can be called to convert a OneNote document into a Html document. The [HtmlSaveOptions](https://apireference.aspose.com/note/net/aspose.note.saving/htmlsaveoptions) class allows to specify additional settings for saving operation.
+Aspose.Note for .NET offers the [Document](https://reference.aspose.com/note/net/aspose.note/document) class that represents a OneNote document. The Document class exposes the Save method that can be called to convert a OneNote document into a Html document. The [HtmlSaveOptions](https://reference.aspose.com/note/net/aspose.note.saving/htmlsaveoptions) class allows to specify additional settings for saving operation.
 
 
 ## **Convert OneNote to Html**
