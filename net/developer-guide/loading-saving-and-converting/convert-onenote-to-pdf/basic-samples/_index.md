@@ -80,3 +80,20 @@ dataDir = dataDir + "sample.pdf";
 // Save OneNote to PDF
 oneFile.Save(dataDir, opts);
 {{< /highlight >}}
+
+### **Save OneNote to PDF without page breaks**
+
+The following code example demonstrates how to convert OneNote to PDF without page breaks of pages with too long content. 
+             
+{{< highlight csharp >}}
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_LoadingAndSaving();
+
+// Load the document into Aspose.Note.
+Document oneFile = new Document(dataDir + "OneNote.one");
+
+var dst = Path.Combine(dataDir, "SaveToPdfUsingA4PageSettingsWithoutHeightLimit.pdf");
+
+// Save the document.
+oneFile.Save(dst, new PdfSaveOptions() { PageSettings = PageSettings.A4NoHeightLimit });
+{{< /highlight >}}
