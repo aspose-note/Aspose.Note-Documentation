@@ -7,7 +7,7 @@ description: Learn how to install OneNote Java Library from Maven Repository
 ---
 
 ## **Installing Aspose.Note for Java from Maven Repository**
-Aspose hosts all Java APIs on [Aspose Artifactory](https://repository.aspose.com/webapp/#/home). You can easily use [Aspose.Note for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) API directly in your Maven Projects with simple configurations.
+Aspose hosts all Java APIs on [Aspose Releases](https://releases.aspose.com/). You can easily use [Aspose.Note for Java](https://releases.aspose.com/java/repo/com/aspose/aspose-note/) API directly in your Maven Projects with simple configurations.
 ### **Specify Maven Repository Configuration**
 First, you need to specify the Aspose Maven Repository configuration/location in your Maven pom.xml as follows:
 
@@ -21,7 +21,7 @@ First, you need to specify the Aspose Maven Repository configuration/location in
 
         <name>Aspose Java API</name>
 
-        <url>https://repository.aspose.com/repo/</url>
+        <url>https://releases.aspose.com/java/repo/</url>
 
     </repository>
 
@@ -44,7 +44,7 @@ Then define Aspose.Note for Java API dependency in your pom.xml as follows:
         <version>20.9</version>
 
         <classifier>jdk17</classifier>
-        
+
     </dependency>
 
 </dependencies>
@@ -65,7 +65,7 @@ If you have an issue with Aspose.Note for Java, follow these simple steps to mak
 - When reporting an issue, please include the original document and possibly a fragment of the code that causes the problem. If you need to attach multiple files, zip them into one. It is safe to attach your documents in Aspose.Forums since only you and Aspose developers will have access to the attached files.
 - Please try to report one issue per thread. If you have another issue, report it in a separate thread.
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Aspose does not provide technical support over the phone. Phone support is only available for sales and purchase questions.
 
