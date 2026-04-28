@@ -23,7 +23,7 @@ The [Java API of Aspose.Note](https://products.aspose.com/note/java/) empowers d
 `       `**Wizard 1:** Aspose.Note Maven Project
 
 - Plugin's **Aspose Maven Project Wizard** lets developers to create [Aspose.Note for Java API](https://products.aspose.com/note/java/) Maven project.
-- The reference of [Aspose.Note for Java API](https://products.aspose.com/note/java/) maven dependency is automatically fetched from [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0) and gets added in the pom.xml.
+- The reference of [Aspose.Note for Java API](https://products.aspose.com/note/java/) Maven dependency is automatically fetched from [Aspose Maven Repository](https://releases.aspose.com/java/repo/) and gets added in the pom.xml.
 - The created project will always contain most recent available version Maven Dependency for [Aspose.Note for Java API](https://products.aspose.com/note/java/).
 - The wizard steps also presents with the option for downloading [Source Code Examples for using Aspose.Note for Java API](https://github.com/aspose-note/Aspose.Note-for-Java/tree/master/Examples)
 
@@ -65,9 +65,9 @@ To download IntellliJ IDEA
   - In Search Box type: "Aspose"
   - Select "**Aspose Note Java (Maven) for IntelliJ IDEA**" plugin to install.
 ## **Installing**
-[Installing Aspose.Note Java (Maven) for IntelliJ IDEA](http://www.aspose.com/docs/display/notejava/Installing+and+Using+Aspose.Note+for+IntelliJ+IDEA+-+Maven)
+[Installing Aspose.Note Java (Maven) for IntelliJ IDEA](https://docs.aspose.com/note/java/aspose-note-project-wizard-for-intellij-idea-maven/)
 ## **Using**
-[Using Aspose.Note Java (Maven) for IntelliJ IDEA](http://www.aspose.com/docs/display/notejava/Installing+and+Using+Aspose.Note+for+IntelliJ+IDEA+-+Maven)
+[Using Aspose.Note Java (Maven) for IntelliJ IDEA](https://docs.aspose.com/note/java/aspose-note-project-wizard-for-intellij-idea-maven/)
 ## **Support, Extend and Contribute**
 ### **Support**
 - If you like to see known / reported issues (by the users or Q.A team) in the plugin.
@@ -76,12 +76,10 @@ To download IntellliJ IDEA
 
 **Please use any of the following project's issues tracker:**
 
-- [CodePlex](https://asposenotejavaintellijidea.codeplex.com/workitem/list/basic)
 - [Github](https://github.com/aspose-note/Aspose.Note-for-Java/issues)
 ### **Extend and Contribute**
 **Aspose.Note Java (Maven) for IntelliJ IDEA** plugin is open source and its source code is available on the major social coding websites listed below. Developers are encouraged to download the source code and contribute by suggesting or adding new feature or improving the existing ones, so that others could also benefit from it.
 ### **Source Code**
 You can get the latest source code from one of the following locations
 
-- [CodePlex](https://asposenotejavaintellijidea.codeplex.com/SourceControl/latest#Aspose.Note-for-Java_for_IntelliJ\(Maven\)/)
-- [Github](https://github.com/aspose-note/Aspose.Note-for-Java/tree/master/Plugins/Aspose.Note-for-Java_for_IntelliJ\(Maven\))
+- [Github](https://github.com/aspose-note/Aspose.Note-for-Java/tree/master/Plugins/Aspose_Note_Java_for_IntelliJ%28Maven%29)

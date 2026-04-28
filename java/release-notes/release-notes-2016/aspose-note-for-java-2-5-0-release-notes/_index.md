@@ -12,8 +12,8 @@ Visit the documentation to learn how to [Getting Started](/note/java/getting-sta
 
 |**Key** |**Summary** |**Category** |
 | :- | :- | :- |
-|NOTEJAVA-187 |Implement saving [document history](http://www.aspose.com/docs/display/notejava/Working+with+Pages#WorkingwithPages-WorkingwithPageHistory) to *.one format.  |New Feature |
-|NOTEJAVA-188 |Add [revision info](http://www.aspose.com/docs/display/notejava/Working+with+Pages#WorkingwithPages-GetAllRevisionsofaSpecificPage) to the document's page type. |New Feature |
+|NOTEJAVA-187 |Implement saving [document history](https://docs.aspose.com/note/java/working-with-pages/) to *.one format.  |New Feature |
+|NOTEJAVA-188 |Add [revision info](https://docs.aspose.com/note/java/working-with-pages/) to the document's page type. |New Feature |
 |NOTENET-1934 |MD5 check error for OneNote 2016 format. |Bug |
 |NOTENET-1989 |Fix bug related to possible empty NotebookManagementEntityGuid in the PageSeries node. |Bug |
 |NOTENET-2051 |Last subpage is in incorrect position after opening and then saving document. |Bug |

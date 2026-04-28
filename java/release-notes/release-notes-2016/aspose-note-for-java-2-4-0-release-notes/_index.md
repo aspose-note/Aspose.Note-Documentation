@@ -11,8 +11,8 @@ Visit the documentation to learn how to [Getting Started](/note/java/getting-st
 
 |**Key** |**Summary** |**Category** |
 | :- | :- | :- |
-|NOTEJAVA-108 |Add support for [OneNote notebooks editing and writing](http://www.aspose.com/docs/display/notejava/Working+with+OneNote+Notebook) |New Feature |
-|NOTEJAVA-124 |Provide [File Format](http://www.aspose.com/docs/display/notejava/Working+with+OneNote+Document#WorkingwithOneNoteDocument-GettingFileFormatInformation) Information option |Enhancement |
+|NOTEJAVA-108 |Add support for [OneNote notebooks editing and writing](https://docs.aspose.com/note/java/working-with-onenote-notebook/) |New Feature |
+|NOTEJAVA-124 |Provide [File Format](https://docs.aspose.com/note/java/working-with-onenote-document/) Information option |Enhancement |
 |NOTEJAVA-123 |Ignore Non-Supported material while loading |Enhancement |
 |NOTEJAVA-137 |Wrong output OneNote file if one text node contains several hyperlinks |Bug |
 |NOTEJAVA-106 |NullReferenceException while saving OneNote document with large image into .one format in evaluation mode |Bug |
