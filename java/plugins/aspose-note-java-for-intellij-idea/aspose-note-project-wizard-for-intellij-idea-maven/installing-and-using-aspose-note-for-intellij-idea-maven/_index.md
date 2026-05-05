@@ -50,7 +50,7 @@ Then follow the steps below:
 \6. Provide a **Project Name** and **Location** just like when creating any Java application
 
 \7. Click **Finish**.
-`    `This will retrieve the [Aspose.Note for Java API](https://products.aspose.com/note/java/) latest maven dependency reference from Aspose Cloud Maven Repository and configure it in pom.xml
+`    `This will retrieve the [Aspose.Note for Java API](https://products.aspose.com/note/java/) latest maven dependency reference from Aspose Maven Repository and configure it in pom.xml
 `     `If you have selected "Also Download Examples Source Code" checkbox. Downloading of the examples will also begin from the [Aspose.Note for Java API GitHub Repository](https://github.com/aspose-note/Aspose.Note-for-Java/tree/master/Examples)
 
 `     `Congratulations ! {{< emoticons/cross >}} You have successfully created Aspose.Note Maven project for using [Aspose.Note for Java API](https://products.aspose.com/note/java/).

@@ -7,7 +7,7 @@ description: Learn how to install OneNote Java Library from Maven Repository
 ---
 
 ## **Installing Aspose.Note for Java from Maven Repository**
-Aspose hosts all Java APIs on [Aspose Releases](https://releases.aspose.com/). You can easily use [Aspose.Note for Java](https://releases.aspose.com/java/repo/com/aspose/aspose-note/) API directly in your Maven Projects with simple configurations.
+Aspose hosts Java APIs in the [Aspose Maven Repository](https://releases.aspose.com/java/repo/). You can easily use [Aspose.Note for Java](https://releases.aspose.com/java/repo/com/aspose/aspose-note/) API directly in your Maven projects with simple configurations.
 ### **Specify Maven Repository Configuration**
 First, you need to specify the Aspose Maven Repository configuration/location in your Maven pom.xml as follows:
 
@@ -41,7 +41,7 @@ Then define Aspose.Note for Java API dependency in your pom.xml as follows:
 
         <artifactId>aspose-note</artifactId>
 
-        <version>20.9</version>
+        <version>26.4</version>
 
         <classifier>jdk17</classifier>
 

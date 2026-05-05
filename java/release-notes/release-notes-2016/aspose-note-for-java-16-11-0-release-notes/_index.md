@@ -7,16 +7,16 @@ url: /java/aspose-note-for-java-16-11-0-release-notes/
 
 Aspose.Note for Java is a class library that enables applications to interact with Microsoft Office OneNote programmatically without it being installed on the server. It is a pure alternate for the Microsoft OneNote Object Model and provides better performance and ease of use for managing OneNote documents.
 
-Visit the documentation to learn how to [Getting Started](http://www.aspose.com/docs/display/notejava/Getting+Started).
+Visit the documentation to learn how to [Getting Started](https://docs.aspose.com/note/java/getting-started/).
 ## **Features and Improvements**
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|NOTEJAVA-35 |Support for creation of [password protected](http://www.aspose.com/docs/display/notejava/Save+a+OneNote+Document#SaveaOneNoteDocument-CreatingPasswordProtectedOneNoteDocuments) MS OneNote documents. |New Feature |
-|NOTEJAVA-109 |Provide support of password protected documents ([reading](http://www.aspose.com/docs/display/notejava/Working+with+OneNote+Notebook#WorkingwithOneNoteNotebook-LoadingPasswordProtectedDocumentsasapartof.onetoc2Notebook) and [writing ](http://www.aspose.com/docs/display/notejava/Working+with+OneNote+Notebook#WorkingwithOneNoteNotebook-SupportofPasswordProtectedDocumentsWritingasPartof.onetoc2Notebook)) as a part of .onetoc2 notebook. |Enhancement |
-|NOTEJAVA-205 |Notebook: Provide option to [load file from Stream](http://www.aspose.com/docs/display/notejava/Working+with+OneNote+Notebook#WorkingwithOneNoteNotebook-LoadingNotebookFilefromStream). |Enhancement |
-|NOTEJAVA-206 |Provide option to [save Notebook to stream](http://www.aspose.com/docs/display/notejava/Working+with+OneNote+Notebook#WorkingwithOneNoteNotebook-SavingNotebooktoStream). |Enhancement |
-|NOTEJAVA-40 |Add background [color property](http://www.aspose.com/docs/display/notejava/Working+with+Tables#WorkingwithTables-SettingCellBackgroundColor) for table cells. |Enhancement |
+|NOTEJAVA-35 |Support for creation of [password protected](https://docs.aspose.com/note/java/loading-saving-and-converting/) MS OneNote documents. |New Feature |
+|NOTEJAVA-109 |Provide support of password protected documents ([reading](https://docs.aspose.com/note/java/working-with-onenote-notebook/) and [writing ](https://docs.aspose.com/note/java/working-with-onenote-notebook/)) as a part of .onetoc2 notebook. |Enhancement |
+|NOTEJAVA-205 |Notebook: Provide option to [load file from Stream](https://docs.aspose.com/note/java/working-with-onenote-notebook/). |Enhancement |
+|NOTEJAVA-206 |Provide option to [save Notebook to stream](https://docs.aspose.com/note/java/working-with-onenote-notebook/). |Enhancement |
+|NOTEJAVA-40 |Add background [color property](https://docs.aspose.com/note/java/working-with-tables/) for table cells. |Enhancement |
 |NOTENET-2143 |Exception while loading OneNote Online file provided by user. |Bug |
 |NOTENET-2145 |Failed to open OneNote document. |Bug |
 |NOTENET-2156 |Broken pictures while opening documents that were password protected with MS OneNote. |Bug |
